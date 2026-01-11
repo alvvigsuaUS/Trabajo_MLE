@@ -1,0 +1,1001 @@
+User_ID,Age,Gender,Occupation,Game_Type,Daily_Gaming_Hours,Weekly_Gaming_Hours,Primary_Gaming_Time,Sleep_Hours,Stress_Level,Focus_Level,Academic_or_Work_Score,Productivity_Level,Performance_Impact
+U0001,21,Male,Working Professional,Action,4.0,28.0,Morning,4.6,6,4,69,66,Negative
+U0002,35,Female,Student,Sports,1.0,7.0,Night,5.4,2,7,67,72,Neutral
+U0003,26,Male,Student,Puzzle,2.0,14.0,Morning,8.0,4,8,82,82,Positive
+U0004,32,Male,Working Professional,Action,1.0,7.0,Night,4.9,7,7,71,66,Neutral
+U0005,19,Male,Working Professional,Action,2.1,14.7,Morning,7.0,7,7,67,63,Neutral
+U0006,29,Female,Student,Casual,5.3,37.1,Evening,6.0,9,8,78,75,Neutral
+U0007,35,Male,Student,Sports,4.4,30.8,Evening,7.2,3,7,95,92,Neutral
+U0008,25,Male,Working Professional,Sports,2.0,14.0,Evening,8.2,5,8,75,70,Positive
+U0009,32,Male,Working Professional,Strategy,0.9,6.3,Morning,8.2,7,4,86,87,Positive
+U0010,25,Male,Working Professional,Action,4.6,32.2,Morning,6.7,8,7,80,80,Neutral
+U0011,20,Female,Working Professional,Simulation,5.2,36.4,Evening,5.1,4,9,82,86,Negative
+U0012,35,Female,Working Professional,Action,3.4,23.8,Evening,8.4,2,8,62,67,Neutral
+U0013,21,Female,Student,Strategy,2.9,20.3,Evening,6.3,6,7,66,69,Neutral
+U0014,18,Male,Working Professional,Puzzle,4.7,32.9,Morning,6.7,2,7,75,77,Neutral
+U0015,35,Male,Student,Casual,0.8,5.6,Evening,8.0,3,3,86,82,Positive
+U0016,27,Female,Working Professional,Sports,5.7,39.9,Night,5.2,8,4,89,87,Negative
+U0017,35,Male,Student,Action,3.0,21.0,Morning,5.5,3,5,56,60,Neutral
+U0018,34,Male,Working Professional,Casual,4.4,30.8,Evening,4.7,3,3,76,72,Negative
+U0019,24,Male,Student,Casual,1.7,11.9,Evening,5.0,9,4,85,86,Neutral
+U0020,30,Female,Student,Strategy,2.4,16.8,Morning,6.1,2,8,61,56,Neutral
+U0021,25,Male,Working Professional,Simulation,1.5,10.5,Morning,6.3,8,4,72,74,Neutral
+U0022,31,Female,Working Professional,Strategy,0.8,5.6,Evening,8.5,2,3,70,67,Positive
+U0023,27,Female,Working Professional,Strategy,5.5,38.5,Morning,5.2,2,6,71,73,Negative
+U0024,19,Female,Student,Action,2.1,14.7,Night,8.4,2,8,75,70,Neutral
+U0025,21,Male,Student,Simulation,0.9,6.3,Morning,5.2,3,8,70,71,Neutral
+U0026,28,Male,Working Professional,Sports,2.8,19.6,Morning,6.8,7,5,68,73,Neutral
+U0027,32,Male,Student,Simulation,4.2,29.4,Morning,5.7,7,9,59,54,Negative
+U0028,27,Male,Working Professional,Simulation,3.3,23.1,Night,5.0,7,3,70,70,Neutral
+U0029,21,Male,Working Professional,Action,2.2,15.4,Morning,8.4,2,8,90,89,Neutral
+U0030,24,Female,Working Professional,Puzzle,4.6,32.2,Morning,5.1,6,7,68,68,Negative
+U0031,22,Female,Student,Casual,1.0,7.0,Evening,6.2,6,3,55,55,Neutral
+U0032,35,Male,Working Professional,Simulation,3.5,24.5,Night,6.2,2,3,59,56,Neutral
+U0033,24,Male,Student,Puzzle,1.3,9.1,Night,5.0,6,5,57,57,Neutral
+U0034,31,Male,Student,Casual,5.4,37.8,Evening,6.1,4,4,65,62,Neutral
+U0035,30,Male,Working Professional,Strategy,4.8,33.6,Morning,6.1,5,5,65,61,Neutral
+U0036,18,Male,Working Professional,Puzzle,5.0,35.0,Evening,6.3,6,9,69,67,Neutral
+U0037,35,Female,Student,Action,5.3,37.1,Evening,8.4,6,5,87,88,Neutral
+U0038,31,Female,Working Professional,Sports,1.5,10.5,Night,8.4,6,3,61,65,Positive
+U0039,18,Male,Working Professional,Sports,5.9,41.3,Morning,5.0,5,5,57,58,Negative
+U0040,34,Female,Working Professional,Puzzle,5.7,39.9,Evening,8.2,7,8,62,61,Neutral
+U0041,23,Female,Working Professional,Simulation,4.3,30.1,Morning,6.7,5,6,79,84,Neutral
+U0042,24,Female,Student,Casual,2.2,15.4,Morning,5.3,7,6,83,85,Neutral
+U0043,27,Male,Student,Strategy,2.1,14.7,Morning,7.2,7,3,70,75,Neutral
+U0044,24,Female,Working Professional,Sports,0.8,5.6,Morning,8.4,3,6,81,86,Positive
+U0045,23,Female,Student,Simulation,1.3,9.1,Morning,7.3,3,9,82,80,Positive
+U0046,34,Female,Working Professional,Simulation,5.5,38.5,Night,5.0,4,9,84,89,Negative
+U0047,26,Male,Working Professional,Simulation,5.4,37.8,Evening,6.2,9,4,85,87,Neutral
+U0048,26,Female,Working Professional,Simulation,3.9,27.3,Morning,5.6,3,8,73,71,Neutral
+U0049,31,Female,Working Professional,Simulation,1.3,9.1,Evening,5.4,4,8,68,64,Neutral
+U0050,30,Female,Student,Puzzle,2.8,19.6,Evening,5.3,8,6,92,87,Neutral
+U0051,25,Female,Student,Puzzle,4.6,32.2,Evening,7.9,8,7,89,93,Neutral
+U0052,22,Male,Working Professional,Simulation,3.2,22.4,Night,6.1,8,8,65,67,Neutral
+U0053,19,Female,Working Professional,Puzzle,4.1,28.7,Morning,4.8,8,4,84,81,Negative
+U0054,20,Female,Student,Casual,3.0,21.0,Night,5.9,8,5,81,80,Neutral
+U0055,19,Male,Student,Strategy,0.8,5.6,Morning,8.3,5,8,59,64,Positive
+U0056,24,Female,Working Professional,Puzzle,3.9,27.3,Morning,5.5,9,8,62,66,Neutral
+U0057,21,Male,Working Professional,Simulation,3.8,26.6,Night,8.4,3,9,65,64,Neutral
+U0058,25,Male,Working Professional,Casual,5.5,38.5,Night,6.0,5,3,92,97,Neutral
+U0059,29,Male,Working Professional,Action,4.9,34.3,Evening,7.7,2,5,89,90,Neutral
+U0060,31,Male,Working Professional,Simulation,5.0,35.0,Night,4.9,7,8,84,81,Negative
+U0061,26,Female,Student,Sports,4.8,33.6,Night,6.4,6,5,70,66,Neutral
+U0062,33,Male,Working Professional,Puzzle,3.9,27.3,Evening,6.0,2,6,75,72,Neutral
+U0063,24,Male,Student,Casual,2.0,14.0,Evening,6.9,6,7,55,58,Neutral
+U0064,18,Male,Working Professional,Strategy,3.2,22.4,Evening,7.5,9,8,86,88,Neutral
+U0065,29,Female,Working Professional,Puzzle,4.3,30.1,Night,5.7,7,6,90,93,Negative
+U0066,21,Male,Student,Strategy,3.0,21.0,Night,5.7,5,3,67,67,Neutral
+U0067,25,Female,Student,Puzzle,3.2,22.4,Morning,7.4,6,3,67,66,Neutral
+U0068,22,Female,Student,Action,4.4,30.8,Night,5.0,2,3,90,89,Negative
+U0069,33,Male,Student,Sports,2.1,14.7,Evening,6.4,7,4,58,57,Neutral
+U0070,27,Male,Student,Action,0.9,6.3,Night,7.0,2,4,64,68,Positive
+U0071,32,Female,Working Professional,Simulation,4.7,32.9,Evening,6.9,5,9,88,89,Neutral
+U0072,24,Female,Student,Strategy,2.2,15.4,Morning,7.0,3,9,68,73,Neutral
+U0073,33,Female,Student,Strategy,1.5,10.5,Evening,4.8,2,6,83,87,Neutral
+U0074,24,Female,Student,Simulation,4.4,30.8,Morning,7.3,9,3,69,68,Neutral
+U0075,27,Female,Working Professional,Action,4.1,28.7,Evening,8.1,4,3,58,55,Neutral
+U0076,32,Male,Student,Sports,4.3,30.1,Night,7.3,6,7,89,91,Neutral
+U0077,18,Female,Student,Strategy,2.3,16.1,Evening,5.5,3,4,91,95,Neutral
+U0078,33,Male,Working Professional,Puzzle,3.4,23.8,Evening,6.3,6,4,92,93,Neutral
+U0079,27,Female,Student,Sports,2.3,16.1,Morning,7.2,4,5,81,83,Neutral
+U0080,35,Female,Working Professional,Action,2.2,15.4,Morning,5.8,8,9,87,82,Neutral
+U0081,24,Female,Student,Puzzle,3.4,23.8,Evening,7.0,9,8,83,78,Neutral
+U0082,23,Female,Student,Simulation,5.3,37.1,Evening,6.4,2,8,93,91,Neutral
+U0083,22,Female,Working Professional,Simulation,1.0,7.0,Night,8.5,3,6,62,67,Positive
+U0084,22,Female,Student,Simulation,2.0,14.0,Night,7.8,9,4,84,87,Positive
+U0085,34,Female,Student,Puzzle,4.6,32.2,Night,5.0,3,5,81,81,Negative
+U0086,35,Female,Working Professional,Puzzle,2.1,14.7,Night,6.8,9,9,64,66,Neutral
+U0087,30,Male,Working Professional,Action,4.7,32.9,Evening,6.0,7,9,67,65,Neutral
+U0088,19,Male,Working Professional,Action,4.6,32.2,Evening,7.3,8,6,64,66,Neutral
+U0089,22,Male,Working Professional,Puzzle,1.0,7.0,Evening,8.1,2,8,64,65,Positive
+U0090,35,Female,Working Professional,Casual,3.9,27.3,Night,6.1,3,9,76,81,Neutral
+U0091,27,Male,Student,Sports,5.4,37.8,Morning,6.5,2,7,59,57,Neutral
+U0092,18,Male,Working Professional,Action,4.7,32.9,Evening,7.3,3,6,65,64,Neutral
+U0093,23,Male,Student,Action,2.5,17.5,Night,6.2,5,7,81,85,Neutral
+U0094,25,Female,Working Professional,Sports,5.3,37.1,Evening,7.0,5,6,92,89,Neutral
+U0095,20,Female,Working Professional,Simulation,4.2,29.4,Evening,8.1,9,5,89,86,Neutral
+U0096,30,Female,Student,Strategy,4.0,28.0,Evening,6.2,6,6,74,72,Neutral
+U0097,18,Male,Working Professional,Puzzle,3.6,25.2,Morning,6.8,6,3,80,79,Neutral
+U0098,22,Male,Student,Puzzle,3.8,26.6,Evening,5.9,5,7,71,76,Neutral
+U0099,31,Male,Student,Strategy,0.7,4.9,Night,6.0,4,3,73,73,Neutral
+U0100,33,Female,Working Professional,Action,5.3,37.1,Evening,6.0,6,9,65,64,Neutral
+U0101,29,Male,Working Professional,Action,5.8,40.6,Evening,5.1,5,9,80,83,Negative
+U0102,29,Male,Student,Sports,3.5,24.5,Morning,6.3,6,7,79,84,Neutral
+U0103,20,Female,Working Professional,Casual,3.9,27.3,Evening,8.3,7,7,69,74,Neutral
+U0104,21,Male,Student,Sports,1.1,7.7,Evening,4.7,2,5,86,82,Neutral
+U0105,21,Female,Working Professional,Puzzle,2.5,17.5,Morning,8.3,8,7,64,65,Neutral
+U0106,29,Female,Student,Sports,4.3,30.1,Evening,5.4,9,4,78,74,Negative
+U0107,18,Male,Working Professional,Strategy,1.5,10.5,Morning,5.0,9,3,68,73,Neutral
+U0108,28,Male,Student,Puzzle,4.8,33.6,Morning,5.3,5,7,68,66,Negative
+U0109,18,Female,Student,Simulation,5.9,41.3,Evening,6.7,4,3,56,53,Neutral
+U0110,21,Male,Working Professional,Sports,0.6,4.2,Evening,5.6,4,8,81,84,Neutral
+U0111,34,Female,Working Professional,Casual,3.3,23.1,Morning,4.9,5,7,57,62,Neutral
+U0112,32,Male,Student,Puzzle,0.8,5.6,Night,6.4,8,6,61,63,Neutral
+U0113,27,Female,Working Professional,Action,1.3,9.1,Night,5.0,7,6,93,96,Neutral
+U0114,31,Female,Working Professional,Sports,1.1,7.7,Evening,7.1,5,6,83,81,Positive
+U0115,22,Female,Student,Action,4.5,31.5,Morning,5.8,7,8,71,71,Negative
+U0116,19,Female,Student,Sports,1.0,7.0,Evening,4.9,7,9,63,66,Neutral
+U0117,27,Female,Student,Simulation,5.3,37.1,Night,8.3,8,9,58,57,Neutral
+U0118,35,Female,Student,Puzzle,1.7,11.9,Night,7.1,5,9,61,61,Positive
+U0119,23,Female,Working Professional,Puzzle,1.7,11.9,Evening,6.2,2,7,72,67,Neutral
+U0120,18,Male,Student,Sports,0.5,3.5,Evening,8.0,8,3,64,69,Positive
+U0121,20,Male,Student,Strategy,3.0,21.0,Night,5.1,6,8,75,79,Neutral
+U0122,32,Female,Working Professional,Strategy,0.8,5.6,Night,4.8,9,8,82,84,Neutral
+U0123,34,Female,Student,Strategy,1.1,7.7,Evening,6.2,6,8,92,94,Neutral
+U0124,26,Female,Working Professional,Action,5.9,41.3,Morning,4.7,5,5,68,65,Negative
+U0125,34,Female,Student,Sports,3.2,22.4,Night,6.2,4,6,89,87,Neutral
+U0126,31,Female,Working Professional,Puzzle,0.7,4.9,Morning,4.6,3,9,75,79,Neutral
+U0127,29,Male,Working Professional,Action,2.7,18.9,Morning,8.4,4,9,94,96,Neutral
+U0128,25,Female,Student,Action,2.9,20.3,Night,6.1,3,6,74,74,Neutral
+U0129,22,Male,Student,Strategy,4.0,28.0,Evening,6.6,5,9,77,77,Neutral
+U0130,32,Female,Working Professional,Casual,1.6,11.2,Evening,6.9,3,4,95,97,Neutral
+U0131,19,Female,Student,Puzzle,1.3,9.1,Evening,4.8,9,8,74,73,Neutral
+U0132,34,Female,Working Professional,Simulation,3.0,21.0,Night,4.7,6,3,60,64,Neutral
+U0133,24,Female,Working Professional,Simulation,5.7,39.9,Morning,7.5,2,6,91,96,Neutral
+U0134,23,Male,Student,Casual,5.8,40.6,Evening,6.3,7,8,60,63,Neutral
+U0135,30,Female,Working Professional,Casual,6.0,42.0,Night,6.6,4,5,78,77,Neutral
+U0136,35,Female,Working Professional,Puzzle,0.8,5.6,Night,7.0,7,3,76,72,Positive
+U0137,22,Female,Working Professional,Casual,5.2,36.4,Night,8.4,4,5,60,64,Neutral
+U0138,28,Male,Student,Casual,4.1,28.7,Night,5.0,3,5,90,91,Negative
+U0139,28,Female,Student,Strategy,2.8,19.6,Morning,5.9,7,5,66,64,Neutral
+U0140,19,Female,Student,Simulation,1.4,9.8,Evening,5.7,3,7,89,92,Neutral
+U0141,31,Female,Student,Sports,1.3,9.1,Night,5.2,4,8,83,78,Neutral
+U0142,27,Female,Student,Puzzle,2.1,14.7,Night,7.5,9,4,89,87,Neutral
+U0143,34,Female,Student,Strategy,5.7,39.9,Night,8.4,9,9,73,74,Neutral
+U0144,21,Male,Working Professional,Action,1.3,9.1,Morning,5.5,9,9,78,81,Neutral
+U0145,25,Female,Working Professional,Action,2.0,14.0,Evening,8.1,4,9,82,78,Positive
+U0146,25,Male,Working Professional,Action,0.8,5.6,Night,6.5,5,6,60,60,Neutral
+U0147,22,Female,Working Professional,Simulation,4.1,28.7,Morning,7.7,4,3,73,75,Neutral
+U0148,34,Female,Student,Puzzle,5.5,38.5,Morning,4.6,5,9,64,67,Negative
+U0149,20,Male,Working Professional,Simulation,2.2,15.4,Night,4.7,8,8,94,96,Neutral
+U0150,31,Male,Working Professional,Strategy,0.6,4.2,Night,6.6,5,8,64,63,Neutral
+U0151,34,Male,Working Professional,Sports,2.8,19.6,Morning,7.2,3,7,78,74,Neutral
+U0152,20,Female,Student,Casual,4.0,28.0,Night,8.4,6,8,56,56,Neutral
+U0153,35,Female,Student,Casual,4.0,28.0,Evening,7.6,7,4,57,57,Neutral
+U0154,32,Male,Working Professional,Strategy,5.9,41.3,Morning,6.4,4,9,63,59,Neutral
+U0155,35,Female,Working Professional,Action,4.9,34.3,Night,8.0,7,5,87,88,Neutral
+U0156,21,Female,Working Professional,Sports,1.6,11.2,Night,5.9,2,9,76,75,Neutral
+U0157,29,Female,Student,Casual,2.9,20.3,Evening,8.3,7,4,86,88,Neutral
+U0158,21,Male,Working Professional,Casual,0.9,6.3,Evening,6.9,4,7,73,73,Neutral
+U0159,32,Male,Working Professional,Simulation,2.2,15.4,Evening,6.9,8,4,83,83,Neutral
+U0160,29,Male,Student,Strategy,2.0,14.0,Night,8.4,2,3,95,96,Positive
+U0161,29,Female,Working Professional,Simulation,4.2,29.4,Morning,6.3,4,3,70,75,Neutral
+U0162,22,Female,Working Professional,Puzzle,3.8,26.6,Night,7.2,7,5,83,79,Neutral
+U0163,34,Female,Student,Puzzle,2.0,14.0,Evening,8.3,2,8,66,68,Positive
+U0164,21,Male,Student,Sports,4.4,30.8,Morning,5.4,6,8,86,84,Negative
+U0165,29,Male,Working Professional,Puzzle,5.4,37.8,Morning,6.3,3,9,75,80,Neutral
+U0166,25,Male,Student,Strategy,4.4,30.8,Morning,8.2,4,9,78,81,Neutral
+U0167,20,Male,Working Professional,Sports,4.8,33.6,Night,4.6,7,6,90,87,Negative
+U0168,22,Female,Student,Sports,4.5,31.5,Evening,6.6,8,9,91,87,Neutral
+U0169,34,Male,Student,Simulation,4.2,29.4,Morning,5.9,4,9,63,64,Negative
+U0170,20,Female,Student,Casual,2.2,15.4,Night,5.1,5,5,88,87,Neutral
+U0171,22,Male,Working Professional,Simulation,2.0,14.0,Morning,7.0,3,7,65,69,Positive
+U0172,24,Female,Student,Sports,5.0,35.0,Night,4.6,2,8,91,90,Negative
+U0173,30,Female,Working Professional,Action,3.5,24.5,Night,7.1,6,6,70,75,Neutral
+U0174,22,Female,Working Professional,Casual,0.8,5.6,Evening,6.3,9,6,68,68,Neutral
+U0175,28,Male,Working Professional,Action,5.9,41.3,Evening,5.0,7,7,90,86,Negative
+U0176,31,Male,Student,Puzzle,3.0,21.0,Night,5.1,2,5,79,83,Neutral
+U0177,33,Female,Working Professional,Action,4.5,31.5,Morning,5.3,4,6,87,89,Negative
+U0178,19,Male,Working Professional,Sports,5.7,39.9,Night,6.5,5,4,92,92,Neutral
+U0179,21,Female,Student,Puzzle,5.4,37.8,Night,7.1,9,5,89,84,Neutral
+U0180,35,Male,Working Professional,Simulation,2.5,17.5,Evening,6.1,2,6,58,62,Neutral
+U0181,21,Male,Student,Sports,0.9,6.3,Evening,6.5,6,9,94,99,Neutral
+U0182,34,Female,Student,Action,4.9,34.3,Morning,5.9,7,9,64,62,Negative
+U0183,34,Male,Working Professional,Simulation,1.3,9.1,Evening,5.8,9,7,84,81,Neutral
+U0184,34,Female,Working Professional,Sports,1.4,9.8,Morning,8.5,6,7,76,79,Positive
+U0185,18,Female,Working Professional,Casual,2.5,17.5,Night,7.2,8,7,74,79,Neutral
+U0186,30,Male,Student,Action,3.7,25.9,Night,7.4,9,4,88,93,Neutral
+U0187,22,Female,Student,Sports,5.7,39.9,Night,4.9,2,6,75,76,Negative
+U0188,24,Female,Working Professional,Simulation,4.8,33.6,Evening,8.2,2,8,63,66,Neutral
+U0189,26,Female,Student,Strategy,2.2,15.4,Evening,5.2,7,7,77,82,Neutral
+U0190,33,Female,Working Professional,Puzzle,3.6,25.2,Night,5.4,6,9,73,71,Neutral
+U0191,35,Female,Working Professional,Puzzle,5.6,39.2,Morning,7.7,6,5,62,66,Neutral
+U0192,26,Female,Student,Strategy,2.1,14.7,Night,5.7,3,5,83,88,Neutral
+U0193,25,Male,Student,Casual,2.0,14.0,Night,6.7,6,4,61,65,Neutral
+U0194,21,Male,Student,Simulation,1.7,11.9,Morning,5.4,3,6,76,78,Neutral
+U0195,28,Female,Student,Action,2.7,18.9,Night,8.2,9,6,67,66,Neutral
+U0196,19,Female,Working Professional,Strategy,3.7,25.9,Night,6.6,2,4,81,78,Neutral
+U0197,21,Female,Working Professional,Sports,5.8,40.6,Night,8.2,2,3,74,78,Neutral
+U0198,26,Male,Student,Puzzle,3.5,24.5,Morning,6.5,4,9,87,89,Neutral
+U0199,24,Male,Working Professional,Sports,4.5,31.5,Night,7.1,4,3,76,75,Neutral
+U0200,28,Male,Student,Puzzle,2.3,16.1,Evening,6.1,3,4,63,65,Neutral
+U0201,18,Female,Working Professional,Casual,1.8,12.6,Morning,7.5,7,5,92,96,Positive
+U0202,34,Female,Student,Casual,0.8,5.6,Evening,5.0,6,4,80,85,Neutral
+U0203,29,Female,Working Professional,Simulation,2.5,17.5,Night,5.4,4,6,64,66,Neutral
+U0204,29,Male,Student,Action,5.0,35.0,Night,7.5,3,7,83,86,Neutral
+U0205,32,Male,Student,Casual,5.5,38.5,Night,5.3,4,4,75,78,Negative
+U0206,22,Female,Working Professional,Simulation,3.2,22.4,Morning,8.1,9,9,58,60,Neutral
+U0207,26,Male,Student,Simulation,3.6,25.2,Morning,7.2,6,8,56,57,Neutral
+U0208,33,Male,Working Professional,Sports,0.7,4.9,Morning,5.9,3,7,58,54,Neutral
+U0209,30,Female,Student,Casual,4.7,32.9,Night,7.6,8,5,79,81,Neutral
+U0210,30,Male,Student,Action,5.3,37.1,Morning,5.0,7,3,66,69,Negative
+U0211,25,Female,Working Professional,Strategy,5.9,41.3,Evening,6.4,8,7,79,77,Neutral
+U0212,18,Male,Student,Action,1.5,10.5,Morning,8.0,3,3,81,85,Positive
+U0213,32,Male,Student,Action,3.8,26.6,Morning,6.3,2,4,57,58,Neutral
+U0214,28,Male,Working Professional,Strategy,3.3,23.1,Night,5.7,7,7,93,98,Neutral
+U0215,23,Female,Working Professional,Action,3.4,23.8,Evening,6.2,6,3,90,94,Neutral
+U0216,22,Female,Working Professional,Strategy,5.7,39.9,Night,7.2,7,8,81,82,Neutral
+U0217,19,Female,Working Professional,Simulation,3.1,21.7,Night,7.9,6,9,64,66,Neutral
+U0218,29,Male,Student,Action,1.2,8.4,Evening,5.5,5,5,60,62,Neutral
+U0219,35,Male,Working Professional,Strategy,2.6,18.2,Evening,6.9,2,9,59,57,Neutral
+U0220,25,Male,Working Professional,Strategy,2.2,15.4,Night,8.1,5,4,62,64,Neutral
+U0221,26,Female,Working Professional,Sports,2.3,16.1,Morning,5.6,9,7,77,76,Neutral
+U0222,31,Male,Student,Casual,4.9,34.3,Morning,7.4,7,4,78,78,Neutral
+U0223,28,Male,Working Professional,Simulation,0.6,4.2,Morning,6.7,8,5,64,62,Neutral
+U0224,33,Female,Student,Casual,3.2,22.4,Evening,7.1,7,5,86,91,Neutral
+U0225,19,Male,Student,Casual,1.4,9.8,Morning,7.4,9,4,89,94,Positive
+U0226,24,Female,Working Professional,Action,4.7,32.9,Night,6.1,5,3,64,59,Neutral
+U0227,18,Female,Student,Action,4.0,28.0,Night,8.2,9,8,86,81,Neutral
+U0228,31,Male,Student,Action,4.5,31.5,Night,6.6,6,3,87,92,Neutral
+U0229,30,Male,Working Professional,Sports,1.3,9.1,Evening,5.3,6,9,77,76,Neutral
+U0230,19,Male,Working Professional,Sports,3.6,25.2,Evening,8.5,5,5,60,65,Neutral
+U0231,33,Female,Working Professional,Simulation,3.5,24.5,Morning,4.7,2,8,65,61,Neutral
+U0232,26,Male,Student,Casual,5.4,37.8,Evening,8.2,5,4,91,93,Neutral
+U0233,24,Male,Working Professional,Action,5.4,37.8,Evening,6.8,2,4,75,70,Neutral
+U0234,30,Male,Student,Simulation,1.4,9.8,Night,5.5,8,8,89,89,Neutral
+U0235,30,Female,Student,Casual,5.9,41.3,Evening,4.7,8,4,59,59,Negative
+U0236,31,Male,Working Professional,Action,4.8,33.6,Night,6.3,5,5,90,91,Neutral
+U0237,30,Male,Working Professional,Puzzle,2.1,14.7,Evening,5.5,3,3,72,69,Neutral
+U0238,21,Male,Student,Strategy,1.1,7.7,Evening,4.5,6,6,78,77,Neutral
+U0239,29,Male,Working Professional,Sports,3.0,21.0,Morning,6.7,8,3,56,52,Neutral
+U0240,34,Male,Working Professional,Strategy,2.1,14.7,Morning,6.1,3,8,90,88,Neutral
+U0241,26,Female,Working Professional,Sports,2.0,14.0,Morning,5.6,4,3,65,66,Neutral
+U0242,32,Male,Student,Puzzle,2.5,17.5,Morning,8.3,9,7,94,92,Neutral
+U0243,28,Female,Student,Puzzle,5.7,39.9,Evening,5.8,8,9,76,78,Negative
+U0244,28,Female,Working Professional,Simulation,3.8,26.6,Morning,7.3,9,5,66,67,Neutral
+U0245,24,Male,Student,Casual,2.3,16.1,Evening,5.6,8,5,62,66,Neutral
+U0246,33,Male,Working Professional,Strategy,5.7,39.9,Evening,5.3,6,9,59,60,Negative
+U0247,33,Female,Working Professional,Simulation,4.1,28.7,Morning,7.4,8,3,83,87,Neutral
+U0248,29,Male,Student,Simulation,4.8,33.6,Night,5.9,3,3,70,75,Negative
+U0249,18,Male,Working Professional,Strategy,4.2,29.4,Night,6.1,7,9,82,78,Neutral
+U0250,32,Male,Working Professional,Action,4.6,32.2,Evening,6.7,5,6,78,79,Neutral
+U0251,27,Female,Working Professional,Strategy,1.1,7.7,Night,6.2,3,3,64,64,Neutral
+U0252,20,Female,Student,Casual,3.2,22.4,Morning,6.4,9,8,83,83,Neutral
+U0253,34,Male,Student,Puzzle,0.6,4.2,Night,5.9,3,8,65,63,Neutral
+U0254,31,Female,Student,Casual,2.8,19.6,Night,6.3,8,8,66,63,Neutral
+U0255,24,Female,Student,Simulation,5.4,37.8,Morning,6.3,8,6,55,53,Neutral
+U0256,21,Female,Working Professional,Simulation,4.9,34.3,Night,6.6,7,5,67,69,Neutral
+U0257,29,Female,Student,Casual,2.2,15.4,Night,6.1,8,7,62,62,Neutral
+U0258,21,Male,Working Professional,Action,4.9,34.3,Morning,8.2,3,8,63,63,Neutral
+U0259,30,Female,Student,Sports,2.6,18.2,Night,5.1,8,6,93,90,Neutral
+U0260,27,Male,Student,Puzzle,3.5,24.5,Evening,8.2,4,7,65,67,Neutral
+U0261,30,Female,Working Professional,Casual,3.9,27.3,Evening,8.0,2,6,63,61,Neutral
+U0262,18,Male,Working Professional,Action,2.8,19.6,Evening,7.9,9,4,60,64,Neutral
+U0263,34,Male,Student,Puzzle,1.7,11.9,Night,5.7,9,7,86,89,Neutral
+U0264,24,Female,Student,Casual,5.0,35.0,Night,6.0,2,9,83,86,Neutral
+U0265,20,Female,Student,Strategy,4.6,32.2,Morning,5.7,2,6,71,71,Negative
+U0266,31,Male,Student,Strategy,5.0,35.0,Morning,6.9,7,9,94,99,Neutral
+U0267,28,Female,Working Professional,Simulation,4.9,34.3,Evening,6.8,6,7,89,86,Neutral
+U0268,26,Male,Student,Strategy,5.7,39.9,Morning,6.6,3,4,81,76,Neutral
+U0269,26,Female,Working Professional,Sports,4.4,30.8,Morning,7.8,8,6,64,68,Neutral
+U0270,29,Female,Working Professional,Puzzle,4.0,28.0,Night,8.0,3,6,87,86,Neutral
+U0271,29,Male,Working Professional,Strategy,0.5,3.5,Evening,7.6,3,8,84,89,Positive
+U0272,35,Male,Working Professional,Puzzle,5.0,35.0,Night,6.5,7,9,73,73,Neutral
+U0273,32,Female,Student,Sports,4.7,32.9,Morning,4.7,9,3,62,59,Negative
+U0274,29,Female,Student,Puzzle,6.0,42.0,Night,8.1,6,4,72,68,Neutral
+U0275,31,Male,Student,Action,5.5,38.5,Morning,5.2,8,8,74,72,Negative
+U0276,18,Female,Student,Sports,3.1,21.7,Night,5.0,5,7,83,78,Neutral
+U0277,28,Female,Working Professional,Strategy,1.2,8.4,Evening,4.8,8,3,61,57,Neutral
+U0278,34,Male,Student,Sports,4.8,33.6,Evening,7.5,4,8,64,60,Neutral
+U0279,32,Male,Student,Action,4.5,31.5,Morning,7.0,4,6,94,99,Neutral
+U0280,22,Male,Working Professional,Casual,4.6,32.2,Morning,6.9,8,5,82,82,Neutral
+U0281,27,Male,Student,Casual,1.9,13.3,Evening,6.9,6,9,56,61,Neutral
+U0282,25,Female,Student,Simulation,2.1,14.7,Morning,4.7,5,6,79,75,Neutral
+U0283,29,Male,Working Professional,Action,5.9,41.3,Morning,8.2,4,6,91,92,Neutral
+U0284,34,Female,Working Professional,Sports,3.7,25.9,Night,4.6,5,3,58,59,Neutral
+U0285,20,Male,Student,Simulation,2.7,18.9,Evening,7.1,4,5,60,59,Neutral
+U0286,19,Male,Student,Sports,2.6,18.2,Morning,7.0,3,5,82,80,Neutral
+U0287,18,Male,Student,Strategy,3.0,21.0,Evening,6.9,6,8,66,62,Neutral
+U0288,26,Male,Student,Puzzle,5.7,39.9,Evening,6.6,6,4,78,75,Neutral
+U0289,29,Male,Working Professional,Simulation,2.0,14.0,Morning,4.8,3,6,84,87,Neutral
+U0290,34,Male,Student,Action,2.5,17.5,Morning,5.5,3,7,62,60,Neutral
+U0291,31,Male,Working Professional,Strategy,0.8,5.6,Evening,6.0,4,4,57,60,Neutral
+U0292,34,Male,Student,Strategy,5.5,38.5,Night,5.8,3,7,78,74,Negative
+U0293,28,Male,Working Professional,Action,5.9,41.3,Evening,8.3,3,6,73,72,Neutral
+U0294,32,Female,Working Professional,Strategy,1.6,11.2,Night,6.8,6,8,94,92,Neutral
+U0295,18,Male,Working Professional,Casual,5.5,38.5,Night,7.5,5,4,55,56,Neutral
+U0296,21,Male,Student,Sports,5.3,37.1,Evening,8.3,2,9,79,78,Neutral
+U0297,19,Male,Working Professional,Casual,5.8,40.6,Evening,8.4,4,8,72,68,Neutral
+U0298,30,Male,Student,Sports,3.0,21.0,Night,7.5,3,7,63,68,Neutral
+U0299,28,Female,Working Professional,Puzzle,5.8,40.6,Morning,5.4,6,9,75,76,Negative
+U0300,32,Female,Working Professional,Sports,0.9,6.3,Morning,5.3,3,4,61,58,Neutral
+U0301,26,Male,Student,Strategy,3.4,23.8,Night,8.4,5,6,74,76,Neutral
+U0302,20,Male,Working Professional,Sports,2.2,15.4,Night,7.3,2,4,75,72,Neutral
+U0303,35,Male,Student,Sports,0.8,5.6,Morning,5.7,4,3,80,82,Neutral
+U0304,24,Female,Working Professional,Casual,4.9,34.3,Night,5.1,2,3,69,66,Negative
+U0305,20,Male,Working Professional,Strategy,5.7,39.9,Morning,4.8,6,9,59,54,Negative
+U0306,19,Male,Working Professional,Casual,5.5,38.5,Evening,7.8,7,3,57,59,Neutral
+U0307,23,Female,Working Professional,Sports,3.2,22.4,Morning,6.0,8,4,77,75,Neutral
+U0308,31,Female,Student,Action,0.7,4.9,Evening,7.0,5,8,73,75,Positive
+U0309,30,Female,Working Professional,Simulation,2.6,18.2,Evening,6.2,5,8,89,84,Neutral
+U0310,18,Female,Student,Action,2.4,16.8,Evening,6.8,7,6,72,69,Neutral
+U0311,23,Male,Student,Casual,0.8,5.6,Morning,8.5,7,9,92,90,Positive
+U0312,30,Female,Student,Strategy,2.0,14.0,Morning,7.8,2,9,69,73,Positive
+U0313,22,Male,Working Professional,Simulation,3.8,26.6,Evening,7.7,7,7,56,56,Neutral
+U0314,18,Female,Student,Puzzle,1.5,10.5,Night,4.7,2,4,93,91,Neutral
+U0315,18,Male,Student,Action,1.6,11.2,Night,5.0,4,9,75,70,Neutral
+U0316,21,Female,Working Professional,Puzzle,5.2,36.4,Morning,8.3,7,8,80,84,Neutral
+U0317,28,Male,Working Professional,Strategy,5.9,41.3,Night,7.4,8,9,95,97,Neutral
+U0318,23,Male,Working Professional,Simulation,3.7,25.9,Morning,5.2,6,8,73,70,Neutral
+U0319,33,Male,Working Professional,Casual,1.5,10.5,Morning,5.8,5,8,91,87,Neutral
+U0320,28,Female,Student,Puzzle,1.8,12.6,Morning,8.4,4,8,60,65,Positive
+U0321,19,Female,Working Professional,Casual,1.9,13.3,Evening,4.8,6,9,61,56,Neutral
+U0322,30,Male,Working Professional,Simulation,5.8,40.6,Night,8.0,9,6,77,80,Neutral
+U0323,18,Female,Working Professional,Action,4.7,32.9,Morning,5.4,9,3,57,56,Negative
+U0324,20,Female,Working Professional,Casual,2.4,16.8,Morning,8.1,4,8,59,62,Neutral
+U0325,28,Male,Student,Sports,2.9,20.3,Night,7.1,8,4,58,54,Neutral
+U0326,25,Male,Student,Sports,3.5,24.5,Night,8.2,6,8,73,72,Neutral
+U0327,20,Female,Working Professional,Strategy,3.5,24.5,Morning,6.5,2,5,55,56,Neutral
+U0328,27,Female,Working Professional,Sports,0.6,4.2,Night,5.2,6,3,85,81,Neutral
+U0329,29,Male,Working Professional,Action,2.0,14.0,Evening,7.1,8,4,78,79,Positive
+U0330,21,Male,Working Professional,Simulation,2.9,20.3,Evening,5.6,6,7,58,55,Neutral
+U0331,31,Female,Student,Sports,5.8,40.6,Evening,6.9,2,9,79,82,Neutral
+U0332,22,Male,Working Professional,Strategy,0.9,6.3,Morning,8.1,2,7,91,94,Positive
+U0333,31,Male,Student,Simulation,5.8,40.6,Evening,7.7,4,3,82,78,Neutral
+U0334,30,Female,Working Professional,Simulation,2.3,16.1,Evening,7.4,3,3,79,82,Neutral
+U0335,22,Male,Student,Simulation,5.5,38.5,Morning,4.5,8,3,81,78,Negative
+U0336,33,Female,Student,Strategy,4.8,33.6,Evening,8.0,7,6,71,72,Neutral
+U0337,25,Male,Working Professional,Puzzle,2.7,18.9,Evening,7.0,8,3,80,80,Neutral
+U0338,21,Male,Student,Puzzle,0.6,4.2,Night,7.8,6,5,72,74,Positive
+U0339,20,Male,Working Professional,Strategy,2.9,20.3,Evening,7.8,6,8,81,85,Neutral
+U0340,23,Male,Working Professional,Casual,4.6,32.2,Night,7.5,7,9,58,61,Neutral
+U0341,19,Male,Student,Sports,2.7,18.9,Morning,7.6,2,4,67,65,Neutral
+U0342,30,Male,Student,Strategy,5.5,38.5,Evening,7.3,6,5,84,87,Neutral
+U0343,29,Male,Working Professional,Casual,3.2,22.4,Night,6.3,9,7,90,90,Neutral
+U0344,25,Male,Student,Puzzle,1.0,7.0,Night,4.6,2,4,91,89,Neutral
+U0345,23,Male,Student,Puzzle,2.8,19.6,Night,4.6,2,6,63,68,Neutral
+U0346,32,Female,Student,Sports,4.9,34.3,Evening,5.7,6,6,79,79,Negative
+U0347,34,Female,Working Professional,Puzzle,4.2,29.4,Night,7.8,8,7,61,56,Neutral
+U0348,26,Female,Student,Strategy,1.1,7.7,Night,4.8,6,8,75,74,Neutral
+U0349,22,Male,Working Professional,Puzzle,4.7,32.9,Evening,8.1,8,8,75,80,Neutral
+U0350,28,Male,Working Professional,Casual,5.5,38.5,Evening,6.1,2,7,91,89,Neutral
+U0351,22,Female,Student,Casual,3.3,23.1,Evening,7.9,4,5,61,63,Neutral
+U0352,28,Female,Working Professional,Simulation,4.1,28.7,Evening,5.4,5,8,74,75,Negative
+U0353,20,Female,Student,Simulation,3.1,21.7,Morning,5.0,2,9,95,99,Neutral
+U0354,22,Male,Working Professional,Sports,5.3,37.1,Night,6.0,6,6,58,55,Neutral
+U0355,33,Female,Student,Puzzle,5.4,37.8,Night,8.4,4,5,66,62,Neutral
+U0356,23,Female,Student,Strategy,0.8,5.6,Night,6.3,5,9,65,69,Neutral
+U0357,19,Male,Working Professional,Action,2.9,20.3,Evening,6.2,8,6,79,74,Neutral
+U0358,25,Male,Working Professional,Puzzle,4.7,32.9,Morning,6.6,2,8,55,60,Neutral
+U0359,27,Female,Working Professional,Casual,1.1,7.7,Night,6.5,6,4,59,54,Neutral
+U0360,24,Male,Working Professional,Action,3.8,26.6,Morning,5.9,4,5,86,86,Neutral
+U0361,34,Male,Student,Puzzle,1.7,11.9,Night,8.4,5,8,56,60,Positive
+U0362,19,Male,Student,Casual,4.1,28.7,Morning,4.6,6,9,89,93,Negative
+U0363,26,Female,Student,Strategy,0.8,5.6,Night,5.0,9,6,62,65,Neutral
+U0364,34,Female,Student,Sports,4.3,30.1,Morning,4.5,8,8,61,66,Negative
+U0365,24,Male,Working Professional,Simulation,3.3,23.1,Morning,7.0,6,3,61,63,Neutral
+U0366,24,Female,Working Professional,Strategy,2.5,17.5,Morning,6.1,4,3,90,92,Neutral
+U0367,33,Male,Student,Simulation,0.6,4.2,Morning,4.9,3,9,91,96,Neutral
+U0368,27,Female,Working Professional,Action,4.5,31.5,Morning,4.9,6,8,69,71,Negative
+U0369,21,Male,Student,Action,5.0,35.0,Morning,8.0,6,5,75,76,Neutral
+U0370,20,Female,Working Professional,Strategy,4.1,28.7,Morning,5.2,7,6,94,93,Negative
+U0371,31,Male,Student,Strategy,2.7,18.9,Night,8.3,6,9,79,81,Neutral
+U0372,33,Female,Student,Simulation,4.5,31.5,Evening,8.4,4,3,81,85,Neutral
+U0373,31,Female,Student,Action,4.8,33.6,Evening,6.9,4,6,86,82,Neutral
+U0374,34,Male,Working Professional,Casual,4.1,28.7,Night,4.5,5,8,76,79,Negative
+U0375,19,Male,Student,Simulation,1.9,13.3,Evening,5.9,8,4,90,94,Neutral
+U0376,25,Female,Working Professional,Action,5.2,36.4,Night,8.0,3,9,86,86,Neutral
+U0377,32,Female,Working Professional,Action,1.7,11.9,Evening,7.1,8,9,70,66,Positive
+U0378,30,Female,Student,Simulation,3.0,21.0,Night,5.0,9,8,56,52,Neutral
+U0379,32,Female,Working Professional,Action,0.5,3.5,Morning,4.9,6,7,90,88,Neutral
+U0380,21,Male,Student,Action,5.1,35.7,Evening,5.8,9,8,78,80,Negative
+U0381,21,Male,Student,Sports,2.5,17.5,Morning,7.0,6,7,88,88,Neutral
+U0382,24,Male,Student,Sports,5.0,35.0,Morning,7.5,8,3,71,75,Neutral
+U0383,21,Female,Working Professional,Casual,3.0,21.0,Night,7.6,7,3,81,76,Neutral
+U0384,35,Female,Working Professional,Simulation,5.8,40.6,Morning,5.0,9,3,88,83,Negative
+U0385,28,Female,Working Professional,Simulation,4.3,30.1,Night,5.2,4,3,79,84,Negative
+U0386,22,Female,Working Professional,Casual,4.7,32.9,Night,5.6,7,5,83,80,Negative
+U0387,27,Female,Student,Casual,5.2,36.4,Night,7.3,5,4,68,72,Neutral
+U0388,35,Female,Working Professional,Casual,5.9,41.3,Night,5.2,7,8,62,62,Negative
+U0389,21,Male,Working Professional,Strategy,5.4,37.8,Morning,6.6,8,9,55,58,Neutral
+U0390,19,Female,Student,Simulation,4.2,29.4,Morning,5.3,4,5,71,68,Negative
+U0391,25,Female,Student,Sports,2.5,17.5,Evening,6.3,5,8,90,91,Neutral
+U0392,26,Male,Working Professional,Strategy,2.8,19.6,Night,7.7,7,7,58,53,Neutral
+U0393,32,Male,Student,Strategy,4.4,30.8,Morning,7.1,5,9,67,66,Neutral
+U0394,26,Male,Student,Simulation,4.5,31.5,Evening,5.0,2,6,72,75,Negative
+U0395,19,Female,Working Professional,Simulation,0.5,3.5,Night,6.4,4,3,64,64,Neutral
+U0396,34,Male,Student,Sports,2.5,17.5,Night,7.6,7,7,69,66,Neutral
+U0397,29,Female,Student,Simulation,3.5,24.5,Night,4.9,5,4,76,76,Neutral
+U0398,25,Male,Student,Casual,3.1,21.7,Evening,6.7,2,3,77,79,Neutral
+U0399,27,Male,Working Professional,Simulation,2.6,18.2,Night,7.7,3,6,71,74,Neutral
+U0400,21,Male,Student,Casual,3.0,21.0,Morning,4.7,5,5,87,83,Neutral
+U0401,24,Female,Student,Casual,1.7,11.9,Night,7.0,5,9,82,78,Positive
+U0402,19,Male,Working Professional,Simulation,1.3,9.1,Morning,6.3,7,3,60,56,Neutral
+U0403,30,Female,Working Professional,Action,3.7,25.9,Evening,5.4,6,6,79,81,Neutral
+U0404,20,Female,Student,Puzzle,4.2,29.4,Night,6.6,3,9,92,87,Neutral
+U0405,18,Female,Student,Simulation,2.2,15.4,Morning,4.8,9,6,80,85,Neutral
+U0406,29,Male,Student,Action,1.3,9.1,Morning,6.1,6,8,64,63,Neutral
+U0407,24,Female,Student,Strategy,0.5,3.5,Morning,6.9,3,5,68,68,Neutral
+U0408,19,Female,Student,Puzzle,1.7,11.9,Night,7.8,5,3,66,71,Positive
+U0409,25,Male,Working Professional,Simulation,0.9,6.3,Morning,4.9,9,5,77,74,Neutral
+U0410,27,Male,Working Professional,Puzzle,5.5,38.5,Evening,5.8,9,5,94,99,Negative
+U0411,29,Male,Working Professional,Sports,1.4,9.8,Evening,5.8,5,8,82,81,Neutral
+U0412,20,Female,Student,Simulation,2.9,20.3,Morning,7.6,9,7,61,58,Neutral
+U0413,34,Male,Working Professional,Simulation,1.9,13.3,Morning,8.0,3,8,59,54,Positive
+U0414,30,Male,Working Professional,Strategy,5.5,38.5,Evening,6.7,9,8,64,64,Neutral
+U0415,25,Male,Student,Sports,3.3,23.1,Morning,4.9,7,7,55,60,Neutral
+U0416,19,Male,Working Professional,Strategy,1.5,10.5,Morning,8.3,4,8,85,85,Positive
+U0417,33,Female,Student,Action,2.0,14.0,Night,5.4,5,7,78,79,Neutral
+U0418,35,Male,Working Professional,Casual,2.3,16.1,Evening,7.3,6,9,71,75,Neutral
+U0419,25,Female,Working Professional,Puzzle,2.5,17.5,Evening,7.1,3,7,71,72,Neutral
+U0420,23,Male,Student,Simulation,4.9,34.3,Night,8.0,2,7,63,65,Neutral
+U0421,25,Female,Working Professional,Casual,2.0,14.0,Morning,5.1,4,5,93,89,Neutral
+U0422,31,Male,Student,Action,3.1,21.7,Morning,6.4,5,7,65,70,Neutral
+U0423,23,Female,Student,Simulation,3.7,25.9,Evening,5.1,2,7,64,59,Neutral
+U0424,24,Female,Working Professional,Sports,3.8,26.6,Morning,6.8,2,8,73,69,Neutral
+U0425,34,Female,Student,Casual,1.7,11.9,Night,6.1,4,9,92,89,Neutral
+U0426,22,Male,Student,Strategy,2.4,16.8,Night,6.3,3,4,79,80,Neutral
+U0427,21,Male,Working Professional,Simulation,5.2,36.4,Night,6.5,8,9,64,68,Neutral
+U0428,22,Male,Working Professional,Simulation,0.7,4.9,Evening,7.6,3,3,85,90,Positive
+U0429,29,Male,Working Professional,Strategy,2.5,17.5,Evening,4.7,8,4,85,86,Neutral
+U0430,31,Female,Student,Action,3.1,21.7,Night,5.4,3,5,93,96,Neutral
+U0431,24,Female,Working Professional,Puzzle,4.6,32.2,Morning,4.5,3,7,55,56,Negative
+U0432,29,Female,Working Professional,Strategy,1.4,9.8,Evening,7.1,6,5,89,90,Positive
+U0433,33,Female,Working Professional,Simulation,3.5,24.5,Evening,6.7,4,5,90,93,Neutral
+U0434,32,Male,Student,Strategy,4.8,33.6,Night,6.1,4,9,62,60,Neutral
+U0435,18,Male,Student,Sports,2.7,18.9,Night,5.9,2,4,79,84,Neutral
+U0436,19,Female,Working Professional,Simulation,2.9,20.3,Night,4.8,5,5,60,64,Neutral
+U0437,33,Female,Student,Strategy,3.4,23.8,Night,7.3,2,9,66,71,Neutral
+U0438,34,Male,Student,Casual,5.6,39.2,Morning,6.6,5,3,93,96,Neutral
+U0439,29,Female,Working Professional,Simulation,2.5,17.5,Morning,7.1,4,3,72,73,Neutral
+U0440,35,Female,Working Professional,Puzzle,3.3,23.1,Morning,7.4,3,3,90,89,Neutral
+U0441,23,Female,Student,Simulation,3.8,26.6,Morning,5.3,8,7,55,54,Neutral
+U0442,35,Female,Working Professional,Sports,3.3,23.1,Night,5.9,3,9,87,86,Neutral
+U0443,32,Male,Working Professional,Action,3.2,22.4,Evening,5.5,7,9,84,89,Neutral
+U0444,31,Female,Student,Casual,0.9,6.3,Evening,7.0,5,8,69,69,Positive
+U0445,33,Female,Working Professional,Strategy,1.9,13.3,Night,4.9,7,3,90,87,Neutral
+U0446,25,Female,Student,Strategy,2.0,14.0,Morning,8.3,5,6,67,65,Positive
+U0447,20,Female,Student,Simulation,5.1,35.7,Morning,7.8,7,4,61,57,Neutral
+U0448,33,Male,Working Professional,Sports,5.2,36.4,Morning,6.0,7,6,91,90,Neutral
+U0449,34,Female,Working Professional,Casual,4.6,32.2,Morning,5.0,8,6,89,84,Negative
+U0450,24,Female,Student,Puzzle,3.0,21.0,Evening,5.0,9,5,55,50,Neutral
+U0451,28,Female,Student,Sports,3.9,27.3,Evening,5.5,6,4,72,74,Neutral
+U0452,32,Male,Student,Simulation,1.7,11.9,Night,7.3,7,5,80,79,Positive
+U0453,31,Female,Student,Strategy,1.8,12.6,Night,4.9,6,9,70,73,Neutral
+U0454,34,Female,Working Professional,Puzzle,1.3,9.1,Evening,7.7,4,6,86,83,Positive
+U0455,24,Female,Working Professional,Casual,3.6,25.2,Morning,6.8,8,3,65,60,Neutral
+U0456,26,Female,Student,Sports,3.0,21.0,Morning,5.8,7,5,90,93,Neutral
+U0457,35,Male,Working Professional,Puzzle,2.4,16.8,Evening,7.2,5,7,91,96,Neutral
+U0458,27,Female,Student,Strategy,4.2,29.4,Night,6.4,9,3,79,83,Neutral
+U0459,23,Female,Student,Puzzle,4.9,34.3,Evening,5.8,8,9,59,55,Negative
+U0460,34,Female,Working Professional,Strategy,4.1,28.7,Morning,7.3,8,5,83,83,Neutral
+U0461,24,Male,Working Professional,Action,5.2,36.4,Morning,5.0,5,8,71,67,Negative
+U0462,20,Male,Working Professional,Simulation,0.9,6.3,Morning,8.0,2,3,80,83,Positive
+U0463,27,Female,Student,Strategy,1.0,7.0,Night,8.2,8,5,69,67,Positive
+U0464,32,Female,Working Professional,Strategy,5.1,35.7,Night,4.6,7,9,75,77,Negative
+U0465,31,Female,Working Professional,Sports,3.5,24.5,Night,6.9,9,8,95,99,Neutral
+U0466,22,Female,Student,Action,1.7,11.9,Night,4.9,6,5,81,80,Neutral
+U0467,18,Female,Working Professional,Puzzle,5.0,35.0,Morning,7.9,7,5,85,88,Neutral
+U0468,29,Male,Working Professional,Simulation,4.7,32.9,Evening,7.7,5,9,55,58,Neutral
+U0469,26,Male,Working Professional,Casual,2.7,18.9,Morning,5.2,8,9,79,77,Neutral
+U0470,31,Male,Student,Strategy,3.3,23.1,Morning,7.7,6,5,89,88,Neutral
+U0471,24,Female,Student,Strategy,2.1,14.7,Morning,7.0,9,5,94,96,Neutral
+U0472,32,Male,Student,Action,5.8,40.6,Morning,4.6,3,5,72,69,Negative
+U0473,32,Male,Working Professional,Action,0.6,4.2,Morning,5.4,8,5,86,86,Neutral
+U0474,24,Female,Working Professional,Action,0.8,5.6,Morning,7.6,3,7,85,82,Positive
+U0475,19,Male,Working Professional,Casual,5.9,41.3,Morning,7.4,8,9,83,81,Neutral
+U0476,23,Male,Student,Puzzle,3.4,23.8,Evening,8.4,9,6,74,74,Neutral
+U0477,25,Female,Working Professional,Action,4.0,28.0,Morning,5.3,2,9,68,64,Negative
+U0478,19,Female,Student,Puzzle,4.9,34.3,Morning,6.8,8,9,70,65,Neutral
+U0479,19,Female,Student,Casual,1.9,13.3,Night,6.5,7,9,95,90,Neutral
+U0480,29,Female,Student,Action,4.9,34.3,Night,5.0,5,5,90,95,Negative
+U0481,35,Female,Working Professional,Strategy,2.6,18.2,Night,7.4,6,3,86,88,Neutral
+U0482,23,Male,Student,Sports,1.5,10.5,Evening,5.9,9,5,93,96,Neutral
+U0483,30,Male,Student,Simulation,5.0,35.0,Evening,6.7,9,3,95,98,Neutral
+U0484,24,Female,Student,Simulation,4.8,33.6,Evening,5.5,3,8,89,90,Negative
+U0485,20,Male,Student,Strategy,2.3,16.1,Morning,7.1,3,3,88,93,Neutral
+U0486,30,Female,Working Professional,Action,1.6,11.2,Evening,6.4,3,3,91,96,Neutral
+U0487,32,Male,Working Professional,Simulation,1.7,11.9,Night,7.4,2,4,86,82,Positive
+U0488,26,Male,Student,Puzzle,5.7,39.9,Morning,6.2,7,9,58,62,Neutral
+U0489,30,Male,Student,Simulation,5.7,39.9,Night,8.3,3,3,69,72,Neutral
+U0490,21,Female,Working Professional,Casual,1.9,13.3,Night,7.0,4,7,90,91,Positive
+U0491,28,Male,Working Professional,Puzzle,2.8,19.6,Evening,4.9,4,7,80,83,Neutral
+U0492,28,Male,Student,Sports,3.5,24.5,Night,8.5,7,6,95,96,Neutral
+U0493,19,Female,Student,Simulation,5.6,39.2,Morning,5.5,9,6,80,75,Negative
+U0494,18,Female,Student,Action,6.0,42.0,Morning,5.7,6,4,68,68,Negative
+U0495,25,Female,Working Professional,Action,3.0,21.0,Night,5.1,6,5,92,90,Neutral
+U0496,23,Female,Student,Simulation,2.7,18.9,Night,8.2,3,8,75,77,Neutral
+U0497,29,Female,Working Professional,Action,2.2,15.4,Morning,7.4,8,3,58,58,Neutral
+U0498,19,Female,Student,Puzzle,4.6,32.2,Night,7.9,2,8,95,96,Neutral
+U0499,30,Female,Student,Strategy,3.6,25.2,Evening,5.8,5,4,58,63,Neutral
+U0500,19,Female,Working Professional,Action,2.1,14.7,Evening,6.1,4,5,60,62,Neutral
+U0501,35,Male,Working Professional,Sports,3.3,23.1,Night,7.6,4,9,63,65,Neutral
+U0502,31,Female,Student,Action,3.6,25.2,Night,6.7,5,4,59,58,Neutral
+U0503,18,Female,Student,Puzzle,2.8,19.6,Night,6.0,5,5,77,81,Neutral
+U0504,24,Female,Student,Casual,5.0,35.0,Morning,7.7,4,6,57,55,Neutral
+U0505,28,Male,Working Professional,Sports,1.1,7.7,Evening,4.7,4,9,73,68,Neutral
+U0506,26,Female,Student,Casual,0.6,4.2,Night,5.3,5,4,89,92,Neutral
+U0507,27,Male,Working Professional,Action,4.2,29.4,Evening,6.0,2,5,65,60,Neutral
+U0508,29,Male,Student,Puzzle,4.1,28.7,Night,4.5,8,8,72,77,Negative
+U0509,35,Male,Student,Strategy,2.6,18.2,Night,8.4,3,5,86,90,Neutral
+U0510,27,Female,Working Professional,Sports,5.8,40.6,Night,6.7,2,3,70,73,Neutral
+U0511,25,Female,Student,Casual,1.4,9.8,Evening,5.9,7,5,95,94,Neutral
+U0512,22,Female,Working Professional,Casual,5.3,37.1,Morning,8.1,2,7,72,70,Neutral
+U0513,22,Female,Working Professional,Simulation,1.0,7.0,Evening,6.0,5,6,70,74,Neutral
+U0514,24,Male,Working Professional,Casual,3.0,21.0,Night,5.0,4,7,89,94,Neutral
+U0515,23,Female,Student,Simulation,5.4,37.8,Night,8.1,8,9,64,69,Neutral
+U0516,28,Female,Working Professional,Puzzle,5.7,39.9,Evening,5.0,7,9,64,59,Negative
+U0517,22,Male,Student,Simulation,4.6,32.2,Night,7.8,6,4,67,63,Neutral
+U0518,18,Female,Student,Casual,2.0,14.0,Evening,6.8,5,7,69,67,Neutral
+U0519,30,Female,Working Professional,Strategy,1.2,8.4,Morning,7.9,9,8,78,75,Positive
+U0520,24,Male,Student,Strategy,1.6,11.2,Evening,4.6,2,5,81,79,Neutral
+U0521,31,Female,Student,Simulation,5.3,37.1,Night,6.5,7,9,84,82,Neutral
+U0522,35,Male,Student,Sports,5.0,35.0,Evening,7.4,8,7,91,95,Neutral
+U0523,19,Female,Student,Strategy,5.0,35.0,Evening,4.7,5,7,89,90,Negative
+U0524,27,Male,Student,Sports,2.9,20.3,Night,8.0,6,6,65,66,Neutral
+U0525,22,Female,Working Professional,Puzzle,3.0,21.0,Evening,7.4,3,4,92,95,Neutral
+U0526,28,Male,Student,Action,0.6,4.2,Morning,6.3,5,6,60,59,Neutral
+U0527,23,Female,Working Professional,Action,4.4,30.8,Morning,7.0,3,7,79,82,Neutral
+U0528,19,Female,Working Professional,Puzzle,5.5,38.5,Night,6.8,4,4,64,61,Neutral
+U0529,18,Female,Student,Sports,4.7,32.9,Evening,6.3,4,3,63,61,Neutral
+U0530,24,Female,Working Professional,Sports,5.2,36.4,Evening,6.7,2,7,86,84,Neutral
+U0531,35,Male,Student,Strategy,0.9,6.3,Morning,6.9,5,7,72,76,Neutral
+U0532,27,Female,Student,Action,0.8,5.6,Morning,5.9,4,9,57,62,Neutral
+U0533,35,Male,Working Professional,Casual,2.8,19.6,Night,5.2,6,7,93,97,Neutral
+U0534,20,Female,Student,Puzzle,2.5,17.5,Evening,4.6,6,5,78,79,Neutral
+U0535,34,Male,Student,Simulation,1.2,8.4,Morning,7.3,6,5,88,89,Positive
+U0536,31,Female,Working Professional,Simulation,1.1,7.7,Night,7.4,3,6,93,92,Positive
+U0537,34,Female,Working Professional,Strategy,6.0,42.0,Night,5.9,4,7,91,93,Negative
+U0538,32,Male,Student,Simulation,1.8,12.6,Evening,5.7,5,3,62,57,Neutral
+U0539,27,Female,Student,Puzzle,2.8,19.6,Evening,5.8,5,3,95,93,Neutral
+U0540,30,Male,Student,Strategy,3.3,23.1,Evening,5.8,2,3,76,76,Neutral
+U0541,22,Female,Student,Casual,5.1,35.7,Evening,8.2,9,6,57,62,Neutral
+U0542,34,Female,Working Professional,Simulation,5.4,37.8,Night,6.6,7,6,81,76,Neutral
+U0543,22,Female,Student,Puzzle,0.6,4.2,Evening,6.8,7,9,77,73,Neutral
+U0544,27,Female,Student,Puzzle,3.9,27.3,Evening,7.9,8,4,93,89,Neutral
+U0545,34,Female,Student,Action,1.0,7.0,Evening,8.0,7,6,74,72,Positive
+U0546,33,Male,Student,Puzzle,4.8,33.6,Evening,7.6,3,6,87,82,Neutral
+U0547,22,Male,Student,Sports,4.5,31.5,Evening,6.6,7,4,61,64,Neutral
+U0548,20,Female,Working Professional,Action,4.4,30.8,Morning,6.6,2,5,57,62,Neutral
+U0549,24,Female,Student,Strategy,3.4,23.8,Evening,7.1,6,3,91,90,Neutral
+U0550,22,Male,Working Professional,Action,2.0,14.0,Morning,5.8,9,8,62,61,Neutral
+U0551,35,Female,Working Professional,Strategy,5.8,40.6,Night,6.7,3,4,89,89,Neutral
+U0552,28,Female,Student,Strategy,4.9,34.3,Morning,6.8,4,3,74,78,Neutral
+U0553,31,Female,Student,Casual,3.1,21.7,Night,7.2,3,6,58,54,Neutral
+U0554,28,Male,Student,Sports,5.4,37.8,Night,7.0,9,7,77,76,Neutral
+U0555,32,Female,Student,Strategy,1.2,8.4,Morning,7.8,9,3,84,83,Positive
+U0556,28,Female,Working Professional,Sports,5.2,36.4,Morning,7.0,7,6,66,71,Neutral
+U0557,29,Male,Student,Sports,0.9,6.3,Night,5.0,9,6,65,64,Neutral
+U0558,32,Female,Working Professional,Strategy,4.9,34.3,Night,5.8,3,9,74,77,Negative
+U0559,24,Female,Working Professional,Simulation,1.8,12.6,Evening,5.1,9,6,59,59,Neutral
+U0560,21,Female,Working Professional,Simulation,3.5,24.5,Morning,5.4,3,8,91,93,Neutral
+U0561,30,Female,Working Professional,Casual,5.0,35.0,Night,5.2,8,3,93,89,Negative
+U0562,22,Male,Working Professional,Simulation,0.8,5.6,Evening,5.4,4,7,95,90,Neutral
+U0563,27,Female,Working Professional,Action,2.6,18.2,Night,6.8,5,4,75,74,Neutral
+U0564,19,Female,Student,Action,0.5,3.5,Night,8.4,8,9,63,62,Positive
+U0565,25,Female,Working Professional,Casual,3.6,25.2,Evening,8.4,3,9,73,68,Neutral
+U0566,23,Female,Student,Strategy,4.4,30.8,Night,6.1,8,7,68,73,Neutral
+U0567,22,Male,Student,Action,2.6,18.2,Night,8.2,8,4,73,78,Neutral
+U0568,20,Male,Working Professional,Sports,0.6,4.2,Night,7.4,9,8,82,79,Positive
+U0569,35,Female,Working Professional,Puzzle,3.8,26.6,Morning,6.2,4,6,87,88,Neutral
+U0570,26,Female,Working Professional,Action,1.5,10.5,Morning,6.9,9,9,70,73,Neutral
+U0571,22,Female,Working Professional,Simulation,3.6,25.2,Morning,7.3,3,7,85,81,Neutral
+U0572,20,Female,Student,Puzzle,3.4,23.8,Night,6.9,5,6,95,100,Neutral
+U0573,29,Female,Working Professional,Strategy,4.8,33.6,Morning,6.4,9,7,76,77,Neutral
+U0574,19,Female,Student,Simulation,4.3,30.1,Morning,6.9,6,8,91,90,Neutral
+U0575,22,Male,Working Professional,Puzzle,4.1,28.7,Morning,5.7,2,5,86,82,Negative
+U0576,23,Male,Working Professional,Puzzle,3.9,27.3,Morning,5.6,6,3,62,66,Neutral
+U0577,28,Male,Student,Simulation,1.9,13.3,Morning,7.3,9,4,88,83,Positive
+U0578,32,Male,Student,Simulation,5.1,35.7,Night,7.5,8,9,79,77,Neutral
+U0579,23,Female,Working Professional,Sports,5.1,35.7,Evening,4.7,6,9,62,57,Negative
+U0580,26,Male,Working Professional,Action,3.1,21.7,Evening,8.3,5,6,79,81,Neutral
+U0581,35,Female,Working Professional,Simulation,5.6,39.2,Night,6.3,7,7,57,53,Neutral
+U0582,30,Female,Student,Casual,5.2,36.4,Night,5.8,6,9,61,60,Negative
+U0583,35,Male,Student,Action,3.7,25.9,Morning,5.3,7,8,66,66,Neutral
+U0584,26,Male,Student,Action,2.8,19.6,Night,6.6,9,5,69,68,Neutral
+U0585,21,Male,Student,Sports,1.0,7.0,Night,8.3,5,7,95,91,Positive
+U0586,27,Female,Student,Casual,4.7,32.9,Evening,7.1,4,3,66,65,Neutral
+U0587,23,Male,Working Professional,Action,5.6,39.2,Evening,5.6,8,8,75,74,Negative
+U0588,32,Male,Working Professional,Strategy,2.6,18.2,Night,8.5,6,9,71,68,Neutral
+U0589,24,Male,Working Professional,Casual,2.7,18.9,Evening,7.1,3,4,89,90,Neutral
+U0590,33,Male,Student,Action,1.1,7.7,Night,4.8,6,9,83,78,Neutral
+U0591,34,Female,Working Professional,Sports,2.6,18.2,Evening,5.1,7,6,91,86,Neutral
+U0592,30,Female,Student,Simulation,5.1,35.7,Night,7.6,3,7,69,64,Neutral
+U0593,20,Female,Working Professional,Action,5.6,39.2,Evening,5.9,6,6,58,63,Negative
+U0594,30,Male,Working Professional,Casual,4.7,32.9,Evening,5.7,5,4,90,85,Negative
+U0595,32,Male,Student,Action,5.4,37.8,Morning,7.0,7,6,60,65,Neutral
+U0596,35,Female,Working Professional,Simulation,0.6,4.2,Evening,8.5,5,6,79,75,Positive
+U0597,30,Male,Student,Casual,5.8,40.6,Night,4.6,7,3,76,71,Negative
+U0598,20,Male,Student,Sports,3.4,23.8,Night,8.3,4,8,92,90,Neutral
+U0599,23,Male,Working Professional,Action,0.6,4.2,Evening,8.1,2,4,63,58,Positive
+U0600,33,Male,Student,Strategy,3.9,27.3,Evening,7.8,3,9,61,57,Neutral
+U0601,35,Male,Working Professional,Strategy,2.4,16.8,Morning,7.8,8,5,62,67,Neutral
+U0602,23,Female,Student,Sports,3.8,26.6,Morning,5.8,3,5,64,65,Neutral
+U0603,30,Male,Student,Sports,5.6,39.2,Morning,4.7,3,9,95,99,Negative
+U0604,31,Female,Student,Strategy,0.5,3.5,Morning,5.2,3,8,92,91,Neutral
+U0605,19,Male,Working Professional,Simulation,4.0,28.0,Morning,6.6,8,4,66,70,Neutral
+U0606,25,Male,Student,Simulation,3.9,27.3,Morning,7.6,7,6,55,58,Neutral
+U0607,24,Female,Student,Strategy,3.9,27.3,Morning,8.0,5,6,95,100,Neutral
+U0608,19,Male,Working Professional,Puzzle,4.9,34.3,Morning,7.2,9,6,66,63,Neutral
+U0609,35,Male,Student,Action,2.9,20.3,Evening,5.8,9,3,61,56,Neutral
+U0610,28,Female,Student,Casual,3.3,23.1,Night,4.8,5,8,83,87,Neutral
+U0611,25,Female,Student,Sports,5.4,37.8,Morning,5.4,3,5,69,65,Negative
+U0612,32,Male,Working Professional,Puzzle,0.9,6.3,Morning,6.8,2,6,64,62,Neutral
+U0613,22,Male,Student,Puzzle,3.0,21.0,Morning,5.3,7,5,67,67,Neutral
+U0614,27,Male,Student,Simulation,1.1,7.7,Night,6.4,8,4,76,74,Neutral
+U0615,33,Female,Working Professional,Action,5.2,36.4,Night,4.8,9,9,68,72,Negative
+U0616,25,Male,Student,Sports,2.9,20.3,Morning,8.0,5,5,82,86,Neutral
+U0617,33,Male,Working Professional,Sports,0.7,4.9,Morning,6.4,2,6,88,89,Neutral
+U0618,27,Male,Student,Action,1.0,7.0,Evening,7.5,8,4,63,63,Positive
+U0619,18,Female,Working Professional,Strategy,4.2,29.4,Night,5.1,9,9,91,95,Negative
+U0620,18,Male,Working Professional,Casual,2.7,18.9,Evening,7.7,7,8,84,89,Neutral
+U0621,24,Male,Working Professional,Casual,3.4,23.8,Morning,5.7,6,8,94,97,Neutral
+U0622,29,Female,Student,Puzzle,3.3,23.1,Evening,8.1,7,3,62,63,Neutral
+U0623,28,Male,Student,Casual,1.5,10.5,Evening,6.7,3,7,68,65,Neutral
+U0624,29,Female,Working Professional,Puzzle,4.6,32.2,Morning,7.5,5,9,69,69,Neutral
+U0625,33,Female,Working Professional,Simulation,0.8,5.6,Evening,5.9,9,7,88,84,Neutral
+U0626,20,Female,Student,Puzzle,4.9,34.3,Morning,8.3,3,4,84,80,Neutral
+U0627,34,Male,Working Professional,Sports,1.1,7.7,Night,5.6,4,6,64,62,Neutral
+U0628,18,Female,Student,Action,3.5,24.5,Morning,5.0,7,6,83,88,Neutral
+U0629,28,Female,Working Professional,Sports,5.3,37.1,Evening,5.4,7,6,92,92,Negative
+U0630,33,Female,Working Professional,Action,3.6,25.2,Morning,8.1,6,4,71,69,Neutral
+U0631,27,Male,Student,Casual,2.4,16.8,Night,6.3,4,7,65,68,Neutral
+U0632,28,Male,Working Professional,Puzzle,5.5,38.5,Evening,7.7,4,4,62,57,Neutral
+U0633,22,Female,Working Professional,Simulation,1.5,10.5,Morning,6.7,2,8,75,75,Neutral
+U0634,32,Female,Student,Action,3.4,23.8,Night,5.0,2,6,86,83,Neutral
+U0635,22,Female,Working Professional,Casual,3.5,24.5,Morning,6.5,6,6,73,77,Neutral
+U0636,27,Male,Working Professional,Simulation,4.5,31.5,Morning,8.1,4,8,90,86,Neutral
+U0637,34,Male,Working Professional,Strategy,3.0,21.0,Morning,4.9,2,7,67,71,Neutral
+U0638,33,Female,Student,Casual,1.0,7.0,Evening,7.9,3,7,80,78,Positive
+U0639,18,Female,Working Professional,Puzzle,2.7,18.9,Evening,7.4,8,5,79,79,Neutral
+U0640,32,Female,Student,Casual,5.9,41.3,Evening,8.0,3,4,83,84,Neutral
+U0641,33,Female,Student,Simulation,4.5,31.5,Evening,6.2,3,4,68,67,Neutral
+U0642,32,Male,Student,Strategy,1.0,7.0,Evening,6.1,6,6,66,69,Neutral
+U0643,33,Female,Student,Action,2.1,14.7,Morning,6.5,6,9,92,91,Neutral
+U0644,23,Female,Student,Action,1.3,9.1,Morning,5.7,9,3,73,74,Neutral
+U0645,33,Female,Working Professional,Casual,4.7,32.9,Night,6.5,3,7,78,82,Neutral
+U0646,18,Female,Student,Simulation,3.1,21.7,Morning,7.3,3,5,87,91,Neutral
+U0647,26,Female,Working Professional,Casual,1.3,9.1,Evening,6.3,4,5,65,60,Neutral
+U0648,23,Male,Student,Simulation,0.8,5.6,Evening,5.7,3,7,67,72,Neutral
+U0649,35,Female,Student,Action,5.3,37.1,Morning,7.8,6,5,78,74,Neutral
+U0650,21,Male,Student,Simulation,3.3,23.1,Morning,6.0,9,6,76,73,Neutral
+U0651,21,Male,Student,Sports,5.1,35.7,Evening,7.7,3,6,84,80,Neutral
+U0652,23,Female,Student,Casual,2.2,15.4,Morning,6.0,9,7,88,88,Neutral
+U0653,22,Male,Student,Action,1.7,11.9,Evening,7.9,4,8,69,68,Positive
+U0654,19,Male,Student,Action,4.3,30.1,Night,7.6,3,3,85,86,Neutral
+U0655,27,Male,Student,Action,3.3,23.1,Night,4.7,3,5,57,53,Neutral
+U0656,20,Male,Working Professional,Simulation,1.6,11.2,Evening,8.1,4,8,77,72,Positive
+U0657,21,Male,Student,Casual,2.4,16.8,Morning,7.9,5,7,91,87,Neutral
+U0658,34,Female,Working Professional,Casual,5.8,40.6,Night,5.2,2,8,61,59,Negative
+U0659,31,Male,Student,Sports,1.5,10.5,Morning,7.2,3,4,77,78,Positive
+U0660,33,Female,Working Professional,Simulation,4.7,32.9,Night,5.8,9,3,88,85,Negative
+U0661,27,Female,Student,Simulation,0.7,4.9,Evening,5.8,3,6,73,75,Neutral
+U0662,29,Male,Student,Casual,2.1,14.7,Evening,7.9,5,9,59,61,Neutral
+U0663,30,Male,Student,Action,4.2,29.4,Evening,6.1,3,3,64,65,Neutral
+U0664,33,Female,Working Professional,Casual,5.9,41.3,Evening,5.9,8,3,69,70,Negative
+U0665,22,Female,Student,Action,2.5,17.5,Evening,7.2,8,6,87,86,Neutral
+U0666,20,Female,Student,Strategy,3.2,22.4,Evening,5.4,4,3,61,56,Neutral
+U0667,20,Female,Working Professional,Strategy,3.8,26.6,Evening,5.8,6,7,94,90,Neutral
+U0668,35,Male,Student,Sports,4.1,28.7,Morning,6.5,6,7,76,79,Neutral
+U0669,19,Male,Working Professional,Casual,2.6,18.2,Morning,5.8,8,6,84,79,Neutral
+U0670,33,Female,Working Professional,Simulation,3.2,22.4,Morning,5.0,8,6,62,66,Neutral
+U0671,29,Female,Working Professional,Action,3.3,23.1,Morning,6.1,9,7,79,83,Neutral
+U0672,28,Female,Student,Sports,3.7,25.9,Evening,5.0,7,5,92,87,Neutral
+U0673,25,Female,Student,Casual,6.0,42.0,Morning,6.1,2,8,70,68,Neutral
+U0674,19,Female,Working Professional,Simulation,5.3,37.1,Night,5.0,4,3,89,89,Negative
+U0675,30,Female,Working Professional,Simulation,5.5,38.5,Morning,5.6,9,7,56,56,Negative
+U0676,28,Male,Working Professional,Puzzle,4.9,34.3,Evening,4.9,5,5,86,89,Negative
+U0677,27,Female,Student,Puzzle,1.6,11.2,Night,7.0,3,9,89,87,Positive
+U0678,28,Female,Student,Simulation,2.7,18.9,Night,5.4,3,8,92,88,Neutral
+U0679,27,Female,Working Professional,Strategy,3.1,21.7,Evening,5.3,3,8,74,77,Neutral
+U0680,18,Male,Working Professional,Strategy,2.7,18.9,Night,7.0,9,8,90,87,Neutral
+U0681,31,Male,Student,Puzzle,5.8,40.6,Evening,7.5,9,5,95,98,Neutral
+U0682,28,Male,Student,Sports,1.3,9.1,Evening,5.1,6,9,82,83,Neutral
+U0683,30,Male,Student,Strategy,5.0,35.0,Morning,7.1,6,8,93,91,Neutral
+U0684,31,Female,Student,Strategy,0.7,4.9,Morning,7.7,6,6,86,89,Positive
+U0685,19,Female,Student,Action,2.0,14.0,Morning,4.6,6,8,90,87,Neutral
+U0686,20,Female,Student,Strategy,2.2,15.4,Morning,5.7,3,6,78,83,Neutral
+U0687,26,Female,Student,Strategy,3.6,25.2,Night,6.5,3,7,92,95,Neutral
+U0688,25,Female,Student,Strategy,1.2,8.4,Morning,7.7,7,9,92,93,Positive
+U0689,19,Female,Working Professional,Casual,1.5,10.5,Morning,8.4,9,6,71,75,Positive
+U0690,33,Female,Working Professional,Action,2.2,15.4,Night,6.2,5,5,64,64,Neutral
+U0691,35,Female,Working Professional,Casual,5.8,40.6,Night,6.9,2,8,70,69,Neutral
+U0692,30,Male,Working Professional,Puzzle,2.5,17.5,Evening,7.7,3,7,70,72,Neutral
+U0693,32,Female,Working Professional,Action,1.0,7.0,Evening,7.8,5,5,68,65,Positive
+U0694,31,Male,Student,Casual,5.3,37.1,Evening,7.8,9,6,81,81,Neutral
+U0695,23,Female,Student,Action,3.3,23.1,Evening,5.9,7,6,56,51,Neutral
+U0696,34,Male,Working Professional,Puzzle,1.6,11.2,Evening,5.7,3,3,65,63,Neutral
+U0697,27,Male,Student,Sports,3.1,21.7,Evening,7.4,6,4,92,92,Neutral
+U0698,25,Male,Working Professional,Strategy,1.5,10.5,Evening,8.0,5,3,56,59,Positive
+U0699,26,Male,Student,Puzzle,4.4,30.8,Morning,5.2,8,7,82,86,Negative
+U0700,33,Male,Student,Casual,5.7,39.9,Morning,5.0,8,9,84,89,Negative
+U0701,22,Female,Student,Simulation,1.5,10.5,Morning,7.9,6,5,86,87,Positive
+U0702,22,Male,Working Professional,Puzzle,6.0,42.0,Morning,5.6,5,6,66,67,Negative
+U0703,18,Female,Student,Puzzle,3.9,27.3,Night,8.1,7,7,84,80,Neutral
+U0704,26,Male,Student,Simulation,2.7,18.9,Morning,5.3,8,8,82,86,Neutral
+U0705,19,Male,Working Professional,Simulation,0.8,5.6,Night,8.2,9,5,93,98,Positive
+U0706,23,Female,Student,Simulation,2.6,18.2,Evening,8.4,7,4,90,85,Neutral
+U0707,31,Male,Working Professional,Action,5.6,39.2,Evening,8.0,4,3,75,78,Neutral
+U0708,27,Female,Working Professional,Simulation,0.7,4.9,Evening,5.0,6,8,78,79,Neutral
+U0709,32,Male,Student,Strategy,2.9,20.3,Morning,5.2,9,9,64,67,Neutral
+U0710,21,Female,Student,Sports,1.8,12.6,Evening,4.6,6,4,84,85,Neutral
+U0711,21,Female,Student,Strategy,5.9,41.3,Evening,6.7,9,6,62,59,Neutral
+U0712,18,Male,Working Professional,Action,1.5,10.5,Morning,5.2,6,7,92,90,Neutral
+U0713,21,Female,Working Professional,Simulation,4.7,32.9,Morning,7.2,7,3,73,78,Neutral
+U0714,26,Male,Working Professional,Action,5.1,35.7,Night,5.1,3,6,85,87,Negative
+U0715,27,Female,Student,Casual,3.9,27.3,Morning,6.3,4,4,58,63,Neutral
+U0716,25,Female,Student,Action,3.5,24.5,Morning,6.9,3,6,71,68,Neutral
+U0717,27,Female,Working Professional,Casual,1.4,9.8,Evening,7.6,6,8,64,60,Positive
+U0718,34,Male,Working Professional,Sports,5.5,38.5,Evening,6.9,7,8,61,61,Neutral
+U0719,23,Female,Working Professional,Action,3.1,21.7,Morning,6.8,8,3,82,82,Neutral
+U0720,34,Male,Working Professional,Sports,3.3,23.1,Evening,8.4,5,8,64,66,Neutral
+U0721,27,Male,Working Professional,Puzzle,0.9,6.3,Night,7.7,6,4,63,68,Positive
+U0722,31,Female,Student,Sports,0.8,5.6,Night,4.8,2,7,61,64,Neutral
+U0723,34,Male,Student,Casual,4.5,31.5,Night,7.8,7,5,92,88,Neutral
+U0724,27,Female,Working Professional,Casual,3.0,21.0,Evening,7.6,8,3,60,61,Neutral
+U0725,26,Male,Working Professional,Simulation,3.9,27.3,Morning,5.6,4,4,66,62,Neutral
+U0726,30,Female,Working Professional,Simulation,0.5,3.5,Night,5.0,4,8,85,87,Neutral
+U0727,22,Male,Student,Strategy,2.5,17.5,Morning,7.2,8,9,74,70,Neutral
+U0728,33,Male,Student,Sports,5.0,35.0,Night,7.3,5,9,56,54,Neutral
+U0729,33,Female,Student,Action,5.2,36.4,Morning,6.7,3,5,84,81,Neutral
+U0730,32,Male,Student,Puzzle,5.5,38.5,Night,7.5,9,6,85,80,Neutral
+U0731,31,Female,Working Professional,Casual,5.1,35.7,Night,6.1,7,3,61,66,Neutral
+U0732,33,Female,Student,Casual,3.8,26.6,Morning,6.7,6,3,86,87,Neutral
+U0733,31,Female,Student,Sports,3.4,23.8,Night,6.2,7,7,59,58,Neutral
+U0734,24,Female,Working Professional,Sports,5.7,39.9,Morning,5.9,8,3,65,64,Negative
+U0735,27,Female,Working Professional,Casual,3.3,23.1,Night,6.9,7,7,84,81,Neutral
+U0736,20,Female,Student,Strategy,4.5,31.5,Morning,7.7,4,7,68,67,Neutral
+U0737,24,Male,Student,Puzzle,1.4,9.8,Evening,6.5,8,6,74,72,Neutral
+U0738,31,Male,Student,Action,2.5,17.5,Night,5.1,2,9,59,59,Neutral
+U0739,35,Female,Student,Casual,1.7,11.9,Night,5.5,7,9,77,72,Neutral
+U0740,21,Male,Student,Simulation,3.8,26.6,Morning,4.9,2,6,84,80,Neutral
+U0741,32,Female,Student,Strategy,1.4,9.8,Night,5.0,5,5,65,64,Neutral
+U0742,31,Male,Student,Sports,2.5,17.5,Evening,7.8,3,9,67,69,Neutral
+U0743,25,Male,Working Professional,Strategy,2.1,14.7,Morning,5.2,6,5,81,81,Neutral
+U0744,29,Male,Working Professional,Strategy,4.9,34.3,Morning,6.2,8,6,88,93,Neutral
+U0745,30,Male,Working Professional,Action,4.4,30.8,Evening,6.6,3,3,76,76,Neutral
+U0746,34,Female,Working Professional,Sports,4.7,32.9,Night,7.1,4,7,58,63,Neutral
+U0747,34,Male,Working Professional,Sports,4.4,30.8,Night,8.0,7,5,55,54,Neutral
+U0748,30,Male,Working Professional,Action,1.6,11.2,Morning,6.7,9,8,77,82,Neutral
+U0749,24,Male,Working Professional,Simulation,3.5,24.5,Evening,6.1,4,7,89,88,Neutral
+U0750,26,Male,Working Professional,Casual,4.7,32.9,Evening,5.1,2,9,89,93,Negative
+U0751,34,Female,Student,Action,5.9,41.3,Night,4.9,2,9,78,77,Negative
+U0752,35,Male,Working Professional,Puzzle,5.7,39.9,Evening,6.3,2,6,76,74,Neutral
+U0753,25,Male,Working Professional,Simulation,4.2,29.4,Night,7.8,4,8,79,82,Neutral
+U0754,31,Male,Student,Action,1.6,11.2,Evening,7.6,9,3,64,65,Positive
+U0755,34,Female,Working Professional,Puzzle,5.4,37.8,Night,6.4,9,3,78,83,Neutral
+U0756,23,Male,Student,Sports,3.2,22.4,Night,6.2,9,8,86,87,Neutral
+U0757,33,Male,Student,Simulation,3.0,21.0,Evening,8.4,3,8,68,70,Neutral
+U0758,27,Male,Student,Action,5.6,39.2,Evening,5.0,8,3,62,62,Negative
+U0759,22,Female,Student,Puzzle,2.2,15.4,Evening,6.0,6,6,56,53,Neutral
+U0760,29,Male,Student,Sports,1.7,11.9,Evening,7.8,9,3,62,65,Positive
+U0761,22,Male,Working Professional,Sports,3.7,25.9,Night,6.8,7,9,79,81,Neutral
+U0762,31,Female,Student,Sports,3.0,21.0,Evening,8.0,7,3,94,99,Neutral
+U0763,20,Male,Student,Simulation,3.5,24.5,Night,8.3,9,8,72,77,Neutral
+U0764,24,Male,Student,Sports,4.9,34.3,Night,7.3,3,8,90,86,Neutral
+U0765,25,Female,Student,Simulation,5.4,37.8,Night,5.0,4,3,72,70,Negative
+U0766,31,Male,Working Professional,Action,2.3,16.1,Night,6.9,9,9,56,56,Neutral
+U0767,27,Male,Student,Puzzle,2.2,15.4,Morning,5.5,3,3,89,86,Neutral
+U0768,23,Male,Student,Puzzle,1.3,9.1,Evening,8.3,4,3,94,94,Positive
+U0769,19,Male,Student,Simulation,1.0,7.0,Night,5.1,7,5,79,75,Neutral
+U0770,28,Female,Working Professional,Action,1.8,12.6,Evening,6.5,8,3,72,67,Neutral
+U0771,21,Male,Student,Puzzle,0.7,4.9,Night,7.0,2,5,90,94,Positive
+U0772,35,Male,Student,Simulation,2.7,18.9,Evening,4.8,5,9,64,64,Neutral
+U0773,27,Male,Student,Action,5.8,40.6,Evening,6.7,2,3,84,88,Neutral
+U0774,34,Female,Student,Strategy,2.0,14.0,Night,5.5,8,5,95,93,Neutral
+U0775,35,Female,Working Professional,Strategy,3.4,23.8,Night,4.8,3,6,62,59,Neutral
+U0776,26,Male,Working Professional,Puzzle,3.3,23.1,Morning,7.7,7,8,71,73,Neutral
+U0777,18,Female,Student,Action,3.0,21.0,Night,6.9,2,8,63,68,Neutral
+U0778,20,Male,Student,Casual,1.5,10.5,Evening,6.7,9,9,80,83,Neutral
+U0779,30,Male,Student,Action,4.2,29.4,Evening,5.9,8,9,93,93,Negative
+U0780,29,Male,Student,Simulation,2.5,17.5,Night,5.3,2,4,56,55,Neutral
+U0781,26,Female,Student,Action,2.2,15.4,Morning,7.4,5,6,78,73,Neutral
+U0782,34,Female,Student,Simulation,5.9,41.3,Morning,7.1,3,9,72,76,Neutral
+U0783,20,Male,Working Professional,Simulation,4.1,28.7,Morning,6.8,4,3,92,89,Neutral
+U0784,35,Female,Working Professional,Action,5.3,37.1,Evening,7.4,6,4,56,61,Neutral
+U0785,31,Female,Student,Casual,4.0,28.0,Night,8.3,2,9,75,76,Neutral
+U0786,26,Female,Working Professional,Puzzle,3.1,21.7,Morning,5.9,2,8,69,64,Neutral
+U0787,20,Male,Student,Strategy,2.7,18.9,Evening,5.8,2,8,69,70,Neutral
+U0788,18,Female,Working Professional,Strategy,2.2,15.4,Morning,7.0,3,3,85,86,Neutral
+U0789,25,Male,Working Professional,Action,3.1,21.7,Night,8.3,2,9,76,79,Neutral
+U0790,20,Male,Student,Sports,3.0,21.0,Morning,5.0,2,3,79,79,Neutral
+U0791,19,Female,Working Professional,Sports,2.2,15.4,Morning,7.0,3,3,58,61,Neutral
+U0792,31,Male,Working Professional,Casual,3.9,27.3,Night,6.1,2,6,79,81,Neutral
+U0793,21,Male,Student,Simulation,4.8,33.6,Morning,6.3,7,7,67,63,Neutral
+U0794,32,Male,Student,Strategy,5.5,38.5,Morning,5.0,6,5,81,83,Negative
+U0795,35,Male,Student,Sports,0.8,5.6,Evening,5.7,8,7,77,76,Neutral
+U0796,22,Male,Student,Simulation,3.8,26.6,Night,5.7,2,7,92,97,Neutral
+U0797,20,Female,Student,Casual,5.2,36.4,Evening,6.2,5,4,95,93,Neutral
+U0798,28,Female,Working Professional,Puzzle,4.3,30.1,Morning,8.4,7,9,92,96,Neutral
+U0799,25,Male,Working Professional,Simulation,1.1,7.7,Morning,8.0,2,6,69,64,Positive
+U0800,30,Male,Student,Puzzle,1.8,12.6,Morning,7.4,7,9,79,77,Positive
+U0801,24,Female,Student,Action,0.9,6.3,Morning,4.6,3,4,73,75,Neutral
+U0802,35,Male,Student,Strategy,1.6,11.2,Morning,5.2,6,8,66,66,Neutral
+U0803,21,Female,Student,Puzzle,1.5,10.5,Evening,5.5,3,3,63,64,Neutral
+U0804,20,Male,Student,Strategy,1.8,12.6,Morning,7.7,4,7,94,95,Positive
+U0805,25,Male,Student,Simulation,1.6,11.2,Evening,6.0,7,5,93,94,Neutral
+U0806,34,Female,Student,Casual,4.8,33.6,Morning,5.8,2,8,72,69,Negative
+U0807,34,Female,Working Professional,Simulation,4.8,33.6,Evening,7.7,3,4,87,88,Neutral
+U0808,26,Female,Student,Strategy,1.5,10.5,Morning,7.3,9,8,86,88,Positive
+U0809,31,Female,Student,Puzzle,5.4,37.8,Evening,6.3,5,6,68,67,Neutral
+U0810,29,Male,Student,Sports,3.5,24.5,Night,5.0,3,5,83,86,Neutral
+U0811,33,Female,Working Professional,Sports,3.9,27.3,Morning,6.2,9,6,81,81,Neutral
+U0812,34,Male,Working Professional,Strategy,1.5,10.5,Morning,5.4,3,5,60,59,Neutral
+U0813,28,Female,Working Professional,Casual,1.2,8.4,Night,5.9,5,5,67,72,Neutral
+U0814,18,Female,Working Professional,Puzzle,5.1,35.7,Evening,5.3,4,9,89,88,Negative
+U0815,30,Male,Student,Casual,5.7,39.9,Night,7.8,2,6,87,84,Neutral
+U0816,20,Female,Student,Sports,1.7,11.9,Night,5.4,9,8,84,84,Neutral
+U0817,22,Female,Student,Sports,2.8,19.6,Night,6.3,2,5,63,67,Neutral
+U0818,27,Female,Student,Simulation,5.1,35.7,Morning,5.9,8,6,80,83,Negative
+U0819,30,Female,Student,Sports,5.6,39.2,Morning,5.1,7,7,95,99,Negative
+U0820,27,Male,Student,Action,3.4,23.8,Night,5.3,3,5,91,93,Neutral
+U0821,20,Female,Working Professional,Strategy,3.5,24.5,Morning,4.6,9,3,66,64,Neutral
+U0822,18,Male,Working Professional,Sports,2.1,14.7,Evening,6.6,9,3,78,81,Neutral
+U0823,24,Male,Student,Puzzle,1.4,9.8,Evening,4.9,8,6,59,60,Neutral
+U0824,24,Female,Working Professional,Strategy,5.0,35.0,Morning,7.2,4,7,91,90,Neutral
+U0825,28,Female,Working Professional,Sports,6.0,42.0,Night,6.3,8,7,70,73,Neutral
+U0826,23,Female,Student,Strategy,0.7,4.9,Night,4.9,9,5,74,75,Neutral
+U0827,30,Male,Student,Strategy,4.5,31.5,Evening,6.3,4,8,91,87,Neutral
+U0828,31,Male,Working Professional,Action,5.4,37.8,Morning,6.7,3,8,68,70,Neutral
+U0829,24,Male,Working Professional,Action,3.3,23.1,Morning,7.6,8,6,65,64,Neutral
+U0830,24,Female,Student,Action,4.0,28.0,Evening,7.2,9,6,76,77,Neutral
+U0831,32,Male,Student,Simulation,1.1,7.7,Night,8.2,7,8,84,86,Positive
+U0832,23,Male,Student,Strategy,1.8,12.6,Evening,8.3,4,6,72,69,Positive
+U0833,26,Male,Working Professional,Puzzle,1.2,8.4,Morning,7.5,4,3,55,60,Positive
+U0834,34,Male,Working Professional,Casual,1.7,11.9,Evening,4.6,5,6,58,63,Neutral
+U0835,25,Female,Student,Strategy,2.9,20.3,Morning,6.9,2,9,79,77,Neutral
+U0836,20,Male,Student,Casual,0.6,4.2,Morning,4.6,2,5,67,72,Neutral
+U0837,35,Male,Student,Simulation,4.5,31.5,Evening,4.7,3,9,75,75,Negative
+U0838,23,Male,Working Professional,Casual,5.7,39.9,Evening,5.0,5,3,77,77,Negative
+U0839,29,Male,Student,Strategy,0.6,4.2,Evening,5.4,5,3,72,77,Neutral
+U0840,23,Female,Student,Simulation,2.2,15.4,Evening,6.9,3,8,89,93,Neutral
+U0841,28,Female,Student,Puzzle,5.9,41.3,Morning,7.3,4,5,66,71,Neutral
+U0842,34,Male,Student,Action,3.8,26.6,Night,6.8,8,7,95,93,Neutral
+U0843,20,Male,Student,Puzzle,4.7,32.9,Evening,5.0,5,8,82,80,Negative
+U0844,32,Female,Student,Puzzle,2.1,14.7,Evening,5.1,5,8,57,55,Neutral
+U0845,25,Female,Working Professional,Strategy,4.0,28.0,Morning,7.5,8,8,73,68,Neutral
+U0846,30,Female,Student,Sports,3.5,24.5,Night,8.1,5,9,69,73,Neutral
+U0847,22,Male,Student,Action,0.5,3.5,Morning,8.0,3,4,58,63,Positive
+U0848,31,Female,Working Professional,Strategy,3.8,26.6,Night,7.8,5,4,87,83,Neutral
+U0849,32,Male,Working Professional,Sports,1.6,11.2,Morning,6.2,5,5,73,77,Neutral
+U0850,31,Female,Student,Sports,5.7,39.9,Morning,5.9,8,4,85,87,Negative
+U0851,35,Male,Student,Puzzle,4.7,32.9,Evening,6.2,3,9,74,78,Neutral
+U0852,20,Female,Student,Casual,3.1,21.7,Evening,6.3,8,7,93,95,Neutral
+U0853,33,Female,Working Professional,Sports,1.6,11.2,Night,8.2,2,3,87,87,Positive
+U0854,30,Male,Student,Sports,2.6,18.2,Evening,6.5,3,6,57,53,Neutral
+U0855,29,Male,Working Professional,Sports,4.7,32.9,Night,7.5,7,7,86,91,Neutral
+U0856,22,Female,Working Professional,Casual,1.9,13.3,Morning,6.4,7,8,56,61,Neutral
+U0857,30,Female,Student,Simulation,1.9,13.3,Morning,6.9,4,3,62,58,Neutral
+U0858,35,Female,Working Professional,Casual,5.3,37.1,Evening,5.2,8,5,74,77,Negative
+U0859,29,Male,Working Professional,Casual,4.6,32.2,Morning,8.2,3,3,95,99,Neutral
+U0860,18,Male,Student,Casual,5.6,39.2,Evening,6.1,6,3,65,67,Neutral
+U0861,23,Male,Student,Sports,3.4,23.8,Morning,7.1,8,4,66,66,Neutral
+U0862,23,Male,Working Professional,Sports,3.3,23.1,Evening,4.9,5,4,67,62,Neutral
+U0863,30,Male,Working Professional,Action,3.9,27.3,Evening,7.0,4,3,73,69,Neutral
+U0864,19,Female,Student,Casual,0.7,4.9,Night,5.4,9,8,61,56,Neutral
+U0865,34,Female,Working Professional,Sports,4.8,33.6,Evening,4.7,5,7,55,56,Negative
+U0866,30,Female,Student,Puzzle,3.8,26.6,Evening,5.8,7,5,70,70,Neutral
+U0867,21,Female,Student,Puzzle,4.9,34.3,Evening,4.5,8,8,63,58,Negative
+U0868,24,Male,Working Professional,Action,3.9,27.3,Night,7.1,9,7,81,86,Neutral
+U0869,33,Female,Student,Puzzle,2.5,17.5,Evening,4.7,7,8,83,81,Neutral
+U0870,27,Male,Student,Simulation,5.7,39.9,Night,8.3,9,8,61,62,Neutral
+U0871,27,Female,Student,Sports,4.8,33.6,Morning,7.4,2,4,86,82,Neutral
+U0872,20,Male,Working Professional,Casual,3.2,22.4,Morning,6.7,5,4,65,70,Neutral
+U0873,26,Female,Student,Casual,1.4,9.8,Morning,8.2,8,9,72,70,Positive
+U0874,20,Female,Working Professional,Casual,5.6,39.2,Night,7.0,9,3,76,74,Neutral
+U0875,26,Male,Working Professional,Action,4.5,31.5,Morning,6.0,8,9,69,67,Neutral
+U0876,29,Male,Working Professional,Sports,1.0,7.0,Night,7.5,5,8,62,66,Positive
+U0877,28,Female,Student,Simulation,4.6,32.2,Night,5.7,5,9,79,80,Negative
+U0878,28,Male,Working Professional,Strategy,3.8,26.6,Evening,5.4,8,3,89,91,Neutral
+U0879,28,Female,Student,Puzzle,4.2,29.4,Night,5.1,6,4,57,61,Negative
+U0880,19,Female,Student,Casual,3.7,25.9,Morning,7.0,5,6,73,74,Neutral
+U0881,33,Female,Working Professional,Casual,5.2,36.4,Morning,8.2,5,8,58,55,Neutral
+U0882,30,Female,Student,Simulation,6.0,42.0,Night,6.7,7,6,85,85,Neutral
+U0883,21,Male,Working Professional,Simulation,2.1,14.7,Morning,7.3,5,8,90,91,Neutral
+U0884,22,Female,Working Professional,Puzzle,5.2,36.4,Morning,7.3,9,8,65,69,Neutral
+U0885,21,Male,Working Professional,Sports,1.7,11.9,Night,7.7,5,8,55,55,Positive
+U0886,19,Male,Working Professional,Simulation,5.1,35.7,Evening,8.2,3,5,85,82,Neutral
+U0887,25,Female,Working Professional,Puzzle,5.8,40.6,Night,7.0,8,4,57,53,Neutral
+U0888,30,Female,Working Professional,Puzzle,3.8,26.6,Morning,5.2,8,9,60,62,Neutral
+U0889,18,Female,Working Professional,Casual,1.2,8.4,Night,4.8,9,8,87,85,Neutral
+U0890,22,Male,Working Professional,Action,1.0,7.0,Night,6.9,8,6,82,81,Neutral
+U0891,35,Female,Student,Simulation,5.5,38.5,Night,7.7,4,6,56,57,Neutral
+U0892,21,Male,Student,Action,3.5,24.5,Night,7.8,3,9,68,73,Neutral
+U0893,23,Male,Working Professional,Action,3.0,21.0,Morning,5.8,2,4,91,89,Neutral
+U0894,18,Male,Working Professional,Action,5.9,41.3,Night,6.5,7,7,65,66,Neutral
+U0895,28,Female,Student,Casual,5.5,38.5,Morning,5.7,9,4,91,93,Negative
+U0896,24,Male,Student,Simulation,4.1,28.7,Evening,4.7,2,4,64,63,Negative
+U0897,26,Female,Student,Sports,2.0,14.0,Evening,7.4,8,3,90,89,Positive
+U0898,24,Male,Working Professional,Casual,1.0,7.0,Night,5.5,8,8,64,67,Neutral
+U0899,31,Female,Student,Simulation,4.1,28.7,Morning,7.4,4,6,64,64,Neutral
+U0900,20,Female,Student,Puzzle,0.9,6.3,Evening,5.0,3,8,90,91,Neutral
+U0901,30,Male,Working Professional,Action,4.8,33.6,Morning,5.1,5,5,55,51,Negative
+U0902,34,Female,Working Professional,Simulation,1.5,10.5,Evening,7.4,6,7,86,82,Positive
+U0903,29,Female,Working Professional,Simulation,3.8,26.6,Morning,8.1,4,5,79,76,Neutral
+U0904,30,Female,Student,Casual,1.9,13.3,Night,7.2,4,8,63,60,Positive
+U0905,32,Male,Working Professional,Puzzle,5.9,41.3,Evening,7.3,5,8,93,94,Neutral
+U0906,20,Female,Working Professional,Puzzle,3.3,23.1,Morning,5.6,8,7,69,68,Neutral
+U0907,19,Male,Working Professional,Simulation,4.0,28.0,Evening,4.8,5,3,65,69,Negative
+U0908,33,Female,Student,Sports,4.9,34.3,Morning,4.5,8,8,87,84,Negative
+U0909,29,Male,Student,Simulation,3.9,27.3,Evening,8.1,2,8,82,85,Neutral
+U0910,22,Female,Student,Sports,5.8,40.6,Evening,7.2,5,4,59,59,Neutral
+U0911,21,Female,Working Professional,Sports,2.6,18.2,Evening,6.0,3,5,70,73,Neutral
+U0912,34,Male,Working Professional,Simulation,2.0,14.0,Evening,4.5,8,4,74,79,Neutral
+U0913,21,Male,Working Professional,Casual,0.8,5.6,Morning,4.5,9,5,74,74,Neutral
+U0914,34,Male,Working Professional,Action,2.7,18.9,Evening,4.5,8,6,67,63,Neutral
+U0915,29,Female,Working Professional,Sports,0.5,3.5,Morning,7.6,6,4,85,86,Positive
+U0916,22,Female,Working Professional,Action,3.5,24.5,Evening,5.6,9,8,83,80,Neutral
+U0917,22,Female,Working Professional,Casual,5.4,37.8,Evening,7.3,3,4,73,68,Neutral
+U0918,31,Female,Working Professional,Casual,5.5,38.5,Night,5.1,5,6,72,68,Negative
+U0919,21,Male,Student,Strategy,1.2,8.4,Morning,7.5,8,7,79,76,Positive
+U0920,18,Female,Working Professional,Puzzle,2.4,16.8,Evening,4.6,5,3,76,77,Neutral
+U0921,23,Male,Working Professional,Action,3.2,22.4,Evening,7.5,5,7,64,67,Neutral
+U0922,34,Male,Student,Simulation,6.0,42.0,Night,5.5,8,4,85,81,Negative
+U0923,24,Male,Working Professional,Action,4.0,28.0,Night,5.4,4,6,57,56,Negative
+U0924,25,Male,Working Professional,Sports,1.6,11.2,Evening,8.0,8,6,88,87,Positive
+U0925,29,Female,Working Professional,Casual,0.8,5.6,Evening,6.2,2,5,62,61,Neutral
+U0926,28,Male,Working Professional,Sports,1.9,13.3,Evening,8.1,4,3,55,50,Positive
+U0927,28,Female,Student,Action,5.5,38.5,Night,4.9,4,5,86,86,Negative
+U0928,34,Female,Student,Casual,0.6,4.2,Evening,6.7,4,5,78,78,Neutral
+U0929,21,Male,Student,Strategy,1.7,11.9,Night,6.0,3,4,95,99,Neutral
+U0930,35,Male,Student,Strategy,3.0,21.0,Morning,4.9,7,5,85,83,Neutral
+U0931,21,Female,Student,Sports,2.8,19.6,Evening,7.3,7,5,83,88,Neutral
+U0932,22,Female,Student,Simulation,3.4,23.8,Morning,8.3,2,4,93,92,Neutral
+U0933,20,Male,Working Professional,Simulation,4.9,34.3,Evening,7.3,8,6,89,92,Neutral
+U0934,23,Male,Student,Simulation,3.6,25.2,Evening,6.1,6,4,66,61,Neutral
+U0935,26,Male,Student,Strategy,3.3,23.1,Morning,7.4,6,5,69,68,Neutral
+U0936,19,Male,Student,Simulation,3.4,23.8,Morning,5.7,4,5,63,62,Neutral
+U0937,26,Male,Working Professional,Simulation,0.5,3.5,Evening,5.9,7,5,60,63,Neutral
+U0938,26,Male,Working Professional,Action,2.3,16.1,Night,4.7,2,9,77,75,Neutral
+U0939,26,Male,Working Professional,Strategy,4.1,28.7,Evening,8.0,3,8,79,84,Neutral
+U0940,31,Female,Student,Sports,2.0,14.0,Morning,6.8,8,4,83,81,Neutral
+U0941,23,Female,Student,Puzzle,3.2,22.4,Morning,6.3,4,4,91,93,Neutral
+U0942,31,Male,Working Professional,Casual,5.4,37.8,Evening,7.8,5,3,64,60,Neutral
+U0943,30,Male,Student,Action,1.1,7.7,Night,6.6,2,7,61,62,Neutral
+U0944,18,Male,Student,Simulation,5.6,39.2,Night,5.0,3,5,64,69,Negative
+U0945,32,Male,Working Professional,Puzzle,5.0,35.0,Evening,7.9,3,4,63,65,Neutral
+U0946,18,Male,Student,Simulation,1.3,9.1,Evening,4.7,6,8,89,85,Neutral
+U0947,18,Male,Working Professional,Sports,1.1,7.7,Morning,8.0,8,4,55,53,Positive
+U0948,23,Male,Student,Action,2.4,16.8,Evening,5.6,8,8,62,64,Neutral
+U0949,22,Male,Working Professional,Simulation,2.5,17.5,Evening,7.0,3,5,60,55,Neutral
+U0950,27,Female,Student,Puzzle,3.8,26.6,Evening,7.2,4,8,74,78,Neutral
+U0951,22,Female,Student,Sports,4.1,28.7,Evening,8.2,3,9,55,52,Neutral
+U0952,31,Female,Student,Action,4.5,31.5,Evening,7.6,9,9,59,55,Neutral
+U0953,31,Female,Working Professional,Simulation,6.0,42.0,Night,5.2,8,5,75,77,Negative
+U0954,33,Female,Student,Sports,2.3,16.1,Morning,7.7,5,6,81,84,Neutral
+U0955,29,Male,Student,Action,3.7,25.9,Evening,6.2,5,8,60,58,Neutral
+U0956,22,Female,Working Professional,Strategy,3.6,25.2,Night,8.3,3,3,77,77,Neutral
+U0957,22,Male,Student,Sports,5.8,40.6,Night,8.2,5,4,69,64,Neutral
+U0958,20,Female,Student,Action,0.6,4.2,Morning,8.4,7,3,61,66,Positive
+U0959,22,Male,Working Professional,Casual,2.5,17.5,Morning,4.8,3,3,91,92,Neutral
+U0960,32,Male,Working Professional,Action,4.6,32.2,Morning,7.3,6,6,81,81,Neutral
+U0961,30,Female,Working Professional,Simulation,0.8,5.6,Night,7.1,4,7,65,60,Positive
+U0962,23,Female,Student,Simulation,5.1,35.7,Evening,8.2,6,8,69,70,Neutral
+U0963,25,Female,Student,Casual,5.9,41.3,Night,5.0,5,6,94,89,Negative
+U0964,30,Female,Student,Action,3.8,26.6,Evening,4.8,9,6,75,80,Neutral
+U0965,28,Male,Student,Puzzle,4.1,28.7,Morning,5.3,3,3,59,59,Negative
+U0966,35,Male,Student,Strategy,3.5,24.5,Evening,4.8,2,9,74,72,Neutral
+U0967,19,Female,Student,Puzzle,1.0,7.0,Morning,6.8,2,7,85,80,Neutral
+U0968,30,Female,Student,Casual,5.9,41.3,Night,7.5,8,7,67,67,Neutral
+U0969,30,Female,Student,Puzzle,1.0,7.0,Morning,6.1,3,7,64,59,Neutral
+U0970,22,Male,Working Professional,Sports,1.3,9.1,Morning,6.4,3,8,69,67,Neutral
+U0971,24,Male,Student,Simulation,2.4,16.8,Night,5.9,8,3,79,77,Neutral
+U0972,20,Female,Student,Sports,6.0,42.0,Evening,4.9,2,4,74,77,Negative
+U0973,29,Male,Student,Strategy,1.4,9.8,Night,5.7,3,5,91,91,Neutral
+U0974,22,Male,Working Professional,Action,4.7,32.9,Evening,5.5,9,5,83,88,Negative
+U0975,28,Female,Student,Casual,5.2,36.4,Evening,6.1,4,6,78,81,Neutral
+U0976,35,Male,Student,Action,3.3,23.1,Evening,5.6,2,7,58,56,Neutral
+U0977,20,Female,Working Professional,Sports,2.6,18.2,Night,6.8,3,4,79,81,Neutral
+U0978,30,Female,Student,Sports,3.4,23.8,Evening,7.8,3,3,66,62,Neutral
+U0979,26,Female,Student,Simulation,0.9,6.3,Morning,5.9,9,4,85,81,Neutral
+U0980,30,Male,Working Professional,Sports,5.7,39.9,Evening,5.1,5,5,91,86,Negative
+U0981,26,Male,Student,Strategy,1.7,11.9,Morning,5.3,2,9,82,81,Neutral
+U0982,24,Female,Student,Action,2.0,14.0,Morning,4.8,9,9,81,84,Neutral
+U0983,31,Female,Working Professional,Simulation,5.4,37.8,Night,6.2,6,4,67,67,Neutral
+U0984,18,Male,Student,Casual,4.8,33.6,Night,8.4,8,5,91,92,Neutral
+U0985,22,Female,Working Professional,Action,3.7,25.9,Night,5.1,7,3,64,66,Neutral
+U0986,32,Male,Student,Strategy,2.7,18.9,Night,6.6,2,6,63,68,Neutral
+U0987,29,Male,Student,Casual,5.9,41.3,Night,6.2,4,7,79,77,Neutral
+U0988,34,Male,Working Professional,Casual,5.8,40.6,Evening,6.0,7,3,74,73,Neutral
+U0989,23,Female,Working Professional,Puzzle,2.8,19.6,Morning,5.9,8,7,76,72,Neutral
+U0990,31,Female,Student,Action,3.5,24.5,Morning,5.2,8,6,73,78,Neutral
+U0991,35,Male,Working Professional,Simulation,1.0,7.0,Night,4.6,8,3,86,90,Neutral
+U0992,35,Female,Student,Strategy,4.9,34.3,Evening,7.2,8,4,69,71,Neutral
+U0993,29,Male,Working Professional,Puzzle,5.7,39.9,Night,5.9,9,6,80,75,Negative
+U0994,31,Male,Student,Action,2.0,14.0,Morning,7.9,8,8,70,65,Positive
+U0995,31,Male,Working Professional,Strategy,4.8,33.6,Night,7.9,7,5,65,69,Neutral
+U0996,23,Female,Working Professional,Simulation,4.0,28.0,Morning,7.8,8,4,95,96,Neutral
+U0997,30,Female,Student,Puzzle,2.9,20.3,Morning,4.9,4,7,62,67,Neutral
+U0998,18,Male,Working Professional,Action,1.0,7.0,Night,4.6,2,8,92,89,Neutral
+U0999,25,Female,Student,Simulation,4.5,31.5,Morning,8.4,7,4,70,75,Neutral
+U1000,19,Female,Student,Strategy,4.5,31.5,Night,7.7,8,9,71,76,Neutral
